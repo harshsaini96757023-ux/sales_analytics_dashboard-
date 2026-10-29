@@ -1,0 +1,1501 @@
+order_id,order_date,customer_id,customer_segment,region,category,product,quantity,unit_price,unit_cost,discount
+ORD-000001,2024-03-06,CUST-00161,Corporate,South,Office Supplies,Notebook Pack,2,348.59,170,0.05
+ORD-000002,2025-07-18,CUST-00166,Consumer,Central,Office Supplies,Notebook Pack,6,318.4,170,0.05
+ORD-000003,2025-04-22,CUST-00076,Corporate,North,Furniture,Bookshelf,2,6679.02,4800,0.15
+ORD-000004,2024-11-16,CUST-00094,Small Business,North,Technology,Wireless Mouse,7,783.81,430,0.05
+ORD-000005,2024-11-12,CUST-00285,Consumer,East,Office Supplies,Notebook Pack,1,374.46,170,0.0
+ORD-000006,2025-09-18,CUST-00309,Corporate,North,Technology,USB Hub,4,1265.5,620,0.1
+ORD-000007,2024-03-03,CUST-00459,Corporate,East,Technology,Keyboard,2,1531.03,800,0.15
+ORD-000008,2025-05-24,CUST-00406,Consumer,South,Technology,Keyboard,6,1589.76,800,0.05
+ORD-000009,2024-05-27,CUST-00207,Corporate,South,Technology,Wireless Mouse,4,778.28,430,0.0
+ORD-000010,2024-03-09,CUST-00010,Small Business,North,Furniture,Study Desk,3,9405.33,6100,0.1
+ORD-000011,2025-01-19,CUST-00159,Consumer,Central,Technology,Monitor,6,12225.19,8500,0.0
+ORD-000012,2025-12-13,CUST-00346,Consumer,North,Furniture,Office Chair,5,6509.48,4200,0.15
+ORD-000013,2025-06-21,CUST-00009,Corporate,Central,Technology,Wireless Mouse,7,864.39,430,0.0
+ORD-000014,2025-07-09,CUST-00440,Corporate,East,Office Supplies,Pen Set,1,225.36,90,0.0
+ORD-000015,2025-06-07,CUST-00297,Consumer,South,Furniture,Office Chair,4,6712.71,4200,0.1
+ORD-000016,2025-07-27,CUST-00298,Consumer,South,Technology,Wireless Mouse,1,913.56,430,0.0
+ORD-000017,2025-01-09,CUST-00277,Corporate,South,Office Supplies,Desk Organizer,2,724.87,330,0.1
+ORD-000018,2024-04-03,CUST-00379,Small Business,Central,Furniture,Study Desk,2,8854.69,6100,0.05
+ORD-000019,2025-09-05,CUST-00398,Corporate,East,Furniture,Office Chair,1,6380.35,4200,0.0
+ORD-000020,2024-11-24,CUST-00198,Consumer,West,Furniture,Bookshelf,5,6695.1,4800,0.15
+ORD-000021,2024-12-31,CUST-00100,Small Business,Central,Technology,Wireless Mouse,5,920.14,430,0.0
+ORD-000022,2024-09-27,CUST-00367,Corporate,Central,Office Supplies,Desk Organizer,7,683.07,330,0.05
+ORD-000023,2024-05-13,CUST-00365,Corporate,West,Technology,Monitor,5,12167.84,8500,0.0
+ORD-000024,2025-11-07,CUST-00432,Small Business,West,Furniture,Bookshelf,5,6623.8,4800,0.0
+ORD-000025,2025-07-24,CUST-00012,Consumer,Central,Office Supplies,Pen Set,4,214.59,90,0.1
+ORD-000026,2025-04-15,CUST-00197,Corporate,South,Furniture,Bookshelf,5,7356.59,4800,0.05
+ORD-000027,2024-10-20,CUST-00301,Corporate,Central,Office Supplies,Desk Organizer,1,695.47,330,0.0
+ORD-000028,2025-08-23,CUST-00197,Small Business,North,Office Supplies,Desk Organizer,3,652.8,330,0.05
+ORD-000029,2025-02-02,CUST-00477,Small Business,South,Technology,Keyboard,1,1379.68,800,0.1
+ORD-000030,2024-11-19,CUST-00139,Corporate,South,Office Supplies,Pen Set,3,206.17,90,0.05
+ORD-000031,2024-11-24,CUST-00130,Consumer,North,Technology,Keyboard,4,1494.45,800,0.15
+ORD-000032,2024-06-14,CUST-00248,Small Business,North,Technology,Monitor,5,11405.85,8500,0.0
+ORD-000033,2024-03-08,CUST-00438,Small Business,Central,Technology,USB Hub,3,1316.3,620,0.15
+ORD-000034,2025-02-08,CUST-00036,Corporate,North,Office Supplies,Pen Set,5,211.4,90,0.05
+ORD-000035,2025-10-10,CUST-00423,Small Business,West,Office Supplies,Notebook Pack,6,352.97,170,0.0
+ORD-000036,2024-02-16,CUST-00080,Consumer,Central,Technology,Keyboard,4,1525.27,800,0.1
+ORD-000037,2025-09-18,CUST-00186,Small Business,East,Furniture,Office Chair,6,6838.02,4200,0.1
+ORD-000038,2025-08-27,CUST-00470,Corporate,North,Technology,Wireless Mouse,5,917.34,430,0.0
+ORD-000039,2024-07-21,CUST-00423,Corporate,North,Office Supplies,Notebook Pack,2,343.95,170,0.0
+ORD-000040,2025-04-06,CUST-00355,Consumer,Central,Technology,Wireless Mouse,7,913.68,430,0.0
+ORD-000041,2024-04-30,CUST-00124,Consumer,South,Office Supplies,Desk Organizer,6,652.58,330,0.15
+ORD-000042,2025-07-07,CUST-00388,Consumer,East,Technology,USB Hub,1,1197.75,620,0.05
+ORD-000043,2025-05-26,CUST-00217,Corporate,North,Office Supplies,Desk Organizer,6,647.59,330,0.15
+ORD-000044,2024-09-15,CUST-00476,Consumer,North,Technology,Keyboard,6,1516.32,800,0.0
+ORD-000045,2024-02-19,CUST-00015,Corporate,North,Technology,Keyboard,7,1625.05,800,0.0
+ORD-000046,2025-12-09,CUST-00233,Small Business,East,Furniture,Study Desk,1,9057.39,6100,0.0
+ORD-000047,2024-11-21,CUST-00409,Small Business,West,Furniture,Bookshelf,1,7155.01,4800,0.0
+ORD-000048,2025-10-13,CUST-00171,Corporate,North,Furniture,Bookshelf,5,6973.06,4800,0.1
+ORD-000049,2025-05-09,CUST-00375,Corporate,West,Office Supplies,Desk Organizer,1,659.67,330,0.15
+ORD-000050,2025-07-22,CUST-00319,Small Business,North,Office Supplies,Desk Organizer,3,769.07,330,0.0
+ORD-000051,2025-07-08,CUST-00229,Small Business,North,Furniture,Office Chair,3,6048.02,4200,0.05
+ORD-000052,2024-05-22,CUST-00461,Corporate,South,Office Supplies,Desk Organizer,2,731.67,330,0.05
+ORD-000053,2024-09-22,CUST-00300,Consumer,East,Technology,Monitor,5,13080.15,8500,0.0
+ORD-000054,2024-12-06,CUST-00339,Small Business,Central,Office Supplies,Notebook Pack,1,317.82,170,0.0
+ORD-000055,2024-12-29,CUST-00375,Consumer,Central,Technology,USB Hub,6,1207.54,620,0.05
+ORD-000056,2024-02-01,CUST-00473,Small Business,South,Technology,Keyboard,3,1571.55,800,0.0
+ORD-000057,2025-02-02,CUST-00360,Corporate,East,Furniture,Study Desk,2,9732.76,6100,0.0
+ORD-000058,2024-04-22,CUST-00171,Small Business,East,Technology,Monitor,3,11856.12,8500,0.0
+ORD-000059,2025-06-26,CUST-00334,Consumer,West,Furniture,Office Chair,3,6711.78,4200,0.0
+ORD-000060,2025-05-13,CUST-00099,Consumer,West,Furniture,Office Chair,6,6968.82,4200,0.0
+ORD-000061,2025-11-04,CUST-00065,Small Business,South,Furniture,Bookshelf,2,6679.66,4800,0.0
+ORD-000062,2025-06-27,CUST-00455,Small Business,South,Technology,Monitor,7,12100.99,8500,0.1
+ORD-000063,2024-09-24,CUST-00305,Small Business,South,Furniture,Bookshelf,5,7380.69,4800,0.0
+ORD-000064,2025-12-07,CUST-00200,Corporate,West,Furniture,Bookshelf,4,6513.45,4800,0.0
+ORD-000065,2024-10-26,CUST-00305,Corporate,East,Furniture,Bookshelf,7,7827.75,4800,0.1
+ORD-000066,2024-08-25,CUST-00272,Small Business,East,Technology,Keyboard,6,1539.66,800,0.0
+ORD-000067,2025-10-23,CUST-00456,Small Business,Central,Furniture,Office Chair,3,6946.32,4200,0.15
+ORD-000068,2024-09-27,CUST-00382,Consumer,West,Technology,Monitor,7,11953.46,8500,0.05
+ORD-000069,2024-02-25,CUST-00322,Corporate,South,Furniture,Office Chair,5,6185.15,4200,0.05
+ORD-000070,2024-12-08,CUST-00110,Corporate,Central,Office Supplies,Desk Organizer,3,750.48,330,0.0
+ORD-000071,2025-08-03,CUST-00168,Corporate,West,Office Supplies,Notebook Pack,1,373.74,170,0.0
+ORD-000072,2024-05-18,CUST-00058,Consumer,South,Furniture,Bookshelf,5,7918.0,4800,0.0
+ORD-000073,2024-12-03,CUST-00211,Corporate,West,Furniture,Office Chair,1,7062.77,4200,0.15
+ORD-000074,2024-04-04,CUST-00069,Corporate,West,Office Supplies,Notebook Pack,7,333.94,170,0.1
+ORD-000075,2025-05-16,CUST-00056,Small Business,Central,Technology,Monitor,4,11223.26,8500,0.0
+ORD-000076,2024-12-13,CUST-00250,Consumer,West,Office Supplies,Desk Organizer,2,721.38,330,0.15
+ORD-000077,2024-08-29,CUST-00258,Consumer,North,Technology,USB Hub,1,1254.68,620,0.15
+ORD-000078,2024-06-14,CUST-00231,Consumer,East,Technology,Keyboard,3,1365.43,800,0.05
+ORD-000079,2025-02-16,CUST-00393,Small Business,Central,Furniture,Study Desk,3,9578.22,6100,0.0
+ORD-000080,2025-05-03,CUST-00374,Small Business,Central,Office Supplies,Notebook Pack,2,349.39,170,0.1
+ORD-000081,2025-11-17,CUST-00439,Small Business,North,Technology,Wireless Mouse,4,791.1,430,0.05
+ORD-000082,2024-11-15,CUST-00027,Consumer,North,Technology,Wireless Mouse,4,839.17,430,0.1
+ORD-000083,2024-04-27,CUST-00326,Small Business,Central,Technology,Wireless Mouse,3,793.56,430,0.0
+ORD-000084,2025-08-30,CUST-00411,Corporate,East,Technology,USB Hub,2,1276.61,620,0.0
+ORD-000085,2025-04-04,CUST-00369,Corporate,South,Office Supplies,Desk Organizer,4,735.33,330,0.05
+ORD-000086,2025-05-26,CUST-00232,Consumer,South,Office Supplies,Pen Set,6,207.64,90,0.0
+ORD-000087,2024-03-11,CUST-00060,Small Business,North,Office Supplies,Pen Set,7,205.76,90,0.0
+ORD-000088,2024-08-16,CUST-00199,Small Business,Central,Technology,USB Hub,1,1112.93,620,0.05
+ORD-000089,2025-07-14,CUST-00197,Consumer,Central,Technology,Keyboard,7,1642.68,800,0.1
+ORD-000090,2025-08-30,CUST-00111,Corporate,West,Office Supplies,Notebook Pack,5,335.24,170,0.1
+ORD-000091,2024-11-13,CUST-00275,Corporate,Central,Technology,Monitor,6,12505.28,8500,0.0
+ORD-000092,2025-08-10,CUST-00301,Corporate,East,Office Supplies,Notebook Pack,7,333.21,170,0.0
+ORD-000093,2025-09-06,CUST-00413,Corporate,East,Technology,USB Hub,1,1172.49,620,0.0
+ORD-000094,2024-10-09,CUST-00158,Corporate,East,Technology,Monitor,2,12423.97,8500,0.0
+ORD-000095,2025-10-17,CUST-00106,Corporate,Central,Office Supplies,Notebook Pack,1,360.24,170,0.0
+ORD-000096,2024-07-29,CUST-00235,Small Business,East,Furniture,Bookshelf,1,7827.18,4800,0.0
+ORD-000097,2024-06-23,CUST-00293,Corporate,North,Office Supplies,Notebook Pack,4,362.57,170,0.0
+ORD-000098,2025-05-13,CUST-00104,Consumer,East,Furniture,Office Chair,3,6078.98,4200,0.0
+ORD-000099,2025-04-09,CUST-00160,Corporate,South,Office Supplies,Pen Set,2,200.43,90,0.0
+ORD-000100,2024-04-12,CUST-00305,Corporate,South,Office Supplies,Notebook Pack,7,377.19,170,0.15
+ORD-000101,2025-08-30,CUST-00054,Consumer,North,Furniture,Office Chair,6,6655.44,4200,0.0
+ORD-000102,2024-05-25,CUST-00377,Consumer,Central,Technology,USB Hub,7,1206.25,620,0.15
+ORD-000103,2025-08-10,CUST-00201,Consumer,South,Office Supplies,Notebook Pack,2,381.41,170,0.05
+ORD-000104,2024-01-06,CUST-00086,Small Business,Central,Furniture,Bookshelf,7,7198.04,4800,0.05
+ORD-000105,2025-08-04,CUST-00190,Small Business,South,Technology,USB Hub,7,1220.34,620,0.0
+ORD-000106,2025-07-28,CUST-00097,Small Business,North,Office Supplies,Notebook Pack,2,375.63,170,0.05
+ORD-000107,2025-07-23,CUST-00204,Corporate,East,Office Supplies,Desk Organizer,5,718.64,330,0.15
+ORD-000108,2025-04-30,CUST-00196,Small Business,South,Furniture,Bookshelf,6,7129.51,4800,0.05
+ORD-000109,2024-12-10,CUST-00329,Corporate,East,Office Supplies,Desk Organizer,3,674.9,330,0.0
+ORD-000110,2025-05-29,CUST-00048,Consumer,North,Technology,Keyboard,4,1566.93,800,0.0
+ORD-000111,2024-07-21,CUST-00281,Small Business,West,Furniture,Office Chair,6,6184.65,4200,0.1
+ORD-000112,2025-07-23,CUST-00299,Consumer,West,Furniture,Bookshelf,2,6555.71,4800,0.15
+ORD-000113,2025-02-09,CUST-00462,Small Business,East,Furniture,Study Desk,1,8108.31,6100,0.0
+ORD-000114,2024-12-01,CUST-00281,Consumer,North,Furniture,Bookshelf,7,7550.58,4800,0.1
+ORD-000115,2025-01-04,CUST-00233,Corporate,North,Technology,Keyboard,2,1585.99,800,0.0
+ORD-000116,2025-02-19,CUST-00187,Small Business,East,Furniture,Bookshelf,7,6869.29,4800,0.0
+ORD-000117,2024-01-28,CUST-00248,Consumer,East,Office Supplies,Pen Set,2,240.48,90,0.15
+ORD-000118,2024-04-12,CUST-00094,Small Business,East,Furniture,Bookshelf,6,7744.53,4800,0.0
+ORD-000119,2024-06-28,CUST-00405,Corporate,East,Technology,Wireless Mouse,3,860.95,430,0.15
+ORD-000120,2024-03-24,CUST-00213,Small Business,South,Furniture,Study Desk,7,8851.71,6100,0.0
+ORD-000121,2024-11-16,CUST-00419,Consumer,South,Furniture,Bookshelf,2,6917.47,4800,0.1
+ORD-000122,2025-05-02,CUST-00260,Corporate,East,Technology,Wireless Mouse,7,882.32,430,0.0
+ORD-000123,2025-04-22,CUST-00188,Small Business,West,Office Supplies,Pen Set,1,199.76,90,0.05
+ORD-000124,2024-12-09,CUST-00107,Corporate,North,Furniture,Study Desk,7,8439.25,6100,0.0
+ORD-000125,2025-09-16,CUST-00473,Consumer,East,Technology,Wireless Mouse,4,902.52,430,0.15
+ORD-000126,2025-02-16,CUST-00326,Small Business,Central,Technology,Wireless Mouse,5,872.82,430,0.0
+ORD-000127,2024-02-27,CUST-00018,Consumer,East,Technology,Keyboard,3,1648.06,800,0.15
+ORD-000128,2025-07-12,CUST-00353,Corporate,South,Office Supplies,Notebook Pack,2,378.21,170,0.0
+ORD-000129,2025-02-23,CUST-00418,Small Business,North,Technology,USB Hub,6,1094.36,620,0.1
+ORD-000130,2025-04-08,CUST-00267,Consumer,Central,Furniture,Office Chair,6,6587.68,4200,0.0
+ORD-000131,2025-02-16,CUST-00032,Consumer,Central,Furniture,Study Desk,7,8659.18,6100,0.0
+ORD-000132,2025-02-08,CUST-00482,Consumer,North,Office Supplies,Notebook Pack,2,375.71,170,0.1
+ORD-000133,2024-03-07,CUST-00487,Corporate,Central,Office Supplies,Pen Set,1,239.51,90,0.0
+ORD-000134,2025-02-12,CUST-00273,Corporate,East,Furniture,Bookshelf,3,7774.45,4800,0.15
+ORD-000135,2025-08-03,CUST-00241,Corporate,East,Office Supplies,Pen Set,6,215.0,90,0.0
+ORD-000136,2024-08-09,CUST-00045,Small Business,North,Technology,Keyboard,1,1583.96,800,0.0
+ORD-000137,2025-03-16,CUST-00306,Consumer,North,Technology,USB Hub,6,1117.81,620,0.0
+ORD-000138,2024-01-23,CUST-00110,Corporate,East,Technology,USB Hub,6,1304.68,620,0.15
+ORD-000139,2024-09-10,CUST-00025,Corporate,North,Technology,Wireless Mouse,4,775.77,430,0.0
+ORD-000140,2024-11-14,CUST-00456,Consumer,East,Technology,Monitor,3,12302.37,8500,0.0
+ORD-000141,2025-12-18,CUST-00309,Corporate,Central,Office Supplies,Pen Set,7,239.75,90,0.0
+ORD-000142,2024-06-05,CUST-00113,Corporate,East,Technology,Wireless Mouse,4,925.77,430,0.0
+ORD-000143,2024-07-20,CUST-00270,Corporate,North,Technology,USB Hub,1,1156.98,620,0.05
+ORD-000144,2024-10-25,CUST-00217,Small Business,South,Technology,Monitor,2,12532.58,8500,0.0
+ORD-000145,2025-12-25,CUST-00094,Small Business,North,Furniture,Bookshelf,6,7196.61,4800,0.05
+ORD-000146,2025-09-14,CUST-00218,Consumer,Central,Technology,Monitor,7,11967.07,8500,0.05
+ORD-000147,2024-01-26,CUST-00034,Small Business,East,Furniture,Study Desk,7,8510.34,6100,0.05
+ORD-000148,2024-06-19,CUST-00490,Consumer,East,Office Supplies,Notebook Pack,5,377.77,170,0.05
+ORD-000149,2025-08-22,CUST-00411,Small Business,West,Furniture,Office Chair,6,6866.28,4200,0.0
+ORD-000150,2024-02-12,CUST-00428,Small Business,West,Office Supplies,Desk Organizer,2,678.67,330,0.05
+ORD-000151,2025-09-16,CUST-00480,Small Business,South,Furniture,Bookshelf,7,7092.12,4800,0.1
+ORD-000152,2024-07-24,CUST-00368,Corporate,East,Office Supplies,Desk Organizer,1,660.17,330,0.1
+ORD-000153,2025-10-31,CUST-00100,Corporate,West,Office Supplies,Notebook Pack,3,367.31,170,0.1
+ORD-000154,2024-08-02,CUST-00056,Consumer,Central,Furniture,Office Chair,4,6050.75,4200,0.0
+ORD-000155,2024-11-13,CUST-00265,Consumer,Central,Office Supplies,Notebook Pack,3,368.24,170,0.1
+ORD-000156,2025-04-28,CUST-00179,Small Business,East,Furniture,Office Chair,6,6041.65,4200,0.0
+ORD-000157,2024-04-02,CUST-00064,Small Business,East,Technology,Keyboard,3,1561.51,800,0.0
+ORD-000158,2025-02-10,CUST-00391,Corporate,West,Office Supplies,Desk Organizer,2,744.11,330,0.0
+ORD-000159,2025-01-03,CUST-00121,Corporate,South,Office Supplies,Pen Set,2,205.76,90,0.05
+ORD-000160,2025-07-26,CUST-00121,Small Business,West,Office Supplies,Desk Organizer,6,673.94,330,0.0
+ORD-000161,2025-12-28,CUST-00219,Small Business,South,Office Supplies,Notebook Pack,1,340.85,170,0.0
+ORD-000162,2025-04-29,CUST-00465,Corporate,East,Office Supplies,Pen Set,1,226.29,90,0.1
+ORD-000163,2024-10-25,CUST-00307,Corporate,Central,Office Supplies,Pen Set,4,237.98,90,0.1
+ORD-000164,2024-10-23,CUST-00041,Small Business,North,Office Supplies,Desk Organizer,6,696.81,330,0.05
+ORD-000165,2024-11-01,CUST-00284,Small Business,East,Office Supplies,Desk Organizer,4,747.13,330,0.0
+ORD-000166,2025-08-17,CUST-00396,Consumer,Central,Furniture,Office Chair,2,7143.27,4200,0.1
+ORD-000167,2024-08-22,CUST-00157,Consumer,East,Technology,USB Hub,2,1144.34,620,0.05
+ORD-000168,2024-05-01,CUST-00172,Small Business,East,Office Supplies,Pen Set,4,211.04,90,0.0
+ORD-000169,2024-09-01,CUST-00029,Corporate,Central,Technology,Wireless Mouse,6,833.49,430,0.1
+ORD-000170,2024-01-17,CUST-00096,Small Business,North,Technology,Monitor,5,12748.77,8500,0.0
+ORD-000171,2024-03-18,CUST-00070,Consumer,West,Furniture,Bookshelf,6,7652.84,4800,0.0
+ORD-000172,2024-03-06,CUST-00482,Corporate,South,Furniture,Office Chair,3,6408.94,4200,0.0
+ORD-000173,2025-07-17,CUST-00388,Corporate,West,Furniture,Office Chair,6,6341.81,4200,0.1
+ORD-000174,2025-06-11,CUST-00003,Corporate,East,Furniture,Office Chair,5,7142.3,4200,0.0
+ORD-000175,2025-05-23,CUST-00259,Small Business,Central,Technology,Wireless Mouse,7,780.14,430,0.0
+ORD-000176,2024-12-03,CUST-00186,Consumer,North,Office Supplies,Pen Set,2,206.6,90,0.0
+ORD-000177,2025-06-07,CUST-00431,Corporate,West,Office Supplies,Desk Organizer,6,726.66,330,0.15
+ORD-000178,2024-04-27,CUST-00202,Consumer,Central,Technology,Keyboard,5,1423.76,800,0.1
+ORD-000179,2025-10-19,CUST-00049,Corporate,East,Technology,USB Hub,7,1128.13,620,0.0
+ORD-000180,2024-12-31,CUST-00145,Consumer,West,Office Supplies,Desk Organizer,2,757.06,330,0.1
+ORD-000181,2025-11-15,CUST-00137,Consumer,South,Office Supplies,Notebook Pack,5,324.45,170,0.15
+ORD-000182,2024-04-21,CUST-00113,Corporate,Central,Office Supplies,Desk Organizer,7,685.89,330,0.0
+ORD-000183,2024-12-29,CUST-00319,Corporate,West,Technology,Wireless Mouse,6,800.86,430,0.15
+ORD-000184,2025-05-23,CUST-00424,Consumer,South,Office Supplies,Pen Set,2,200.22,90,0.1
+ORD-000185,2024-12-27,CUST-00309,Corporate,West,Office Supplies,Notebook Pack,1,323.98,170,0.1
+ORD-000186,2024-11-21,CUST-00364,Small Business,East,Technology,USB Hub,1,1290.4,620,0.05
+ORD-000187,2024-05-01,CUST-00410,Consumer,West,Furniture,Bookshelf,1,6894.51,4800,0.0
+ORD-000188,2024-10-05,CUST-00251,Small Business,East,Furniture,Office Chair,3,6607.44,4200,0.0
+ORD-000189,2024-06-23,CUST-00456,Small Business,South,Furniture,Bookshelf,7,7540.59,4800,0.05
+ORD-000190,2024-08-08,CUST-00095,Corporate,West,Technology,Monitor,6,13105.5,8500,0.1
+ORD-000191,2025-05-14,CUST-00492,Corporate,South,Furniture,Bookshelf,2,7399.04,4800,0.05
+ORD-000192,2025-04-05,CUST-00047,Corporate,East,Technology,USB Hub,2,1290.13,620,0.0
+ORD-000193,2025-03-19,CUST-00192,Corporate,Central,Office Supplies,Pen Set,5,236.88,90,0.0
+ORD-000194,2024-09-21,CUST-00169,Consumer,West,Technology,USB Hub,2,1238.04,620,0.1
+ORD-000195,2025-12-01,CUST-00110,Small Business,West,Furniture,Office Chair,4,6582.58,4200,0.05
+ORD-000196,2024-03-04,CUST-00174,Small Business,Central,Office Supplies,Notebook Pack,4,317.16,170,0.0
+ORD-000197,2024-09-07,CUST-00026,Corporate,West,Office Supplies,Pen Set,7,209.33,90,0.1
+ORD-000198,2024-03-27,CUST-00442,Consumer,South,Technology,Monitor,6,12075.1,8500,0.1
+ORD-000199,2024-09-04,CUST-00116,Corporate,North,Furniture,Office Chair,6,7096.07,4200,0.1
+ORD-000200,2025-12-03,CUST-00372,Small Business,East,Technology,Monitor,3,11942.72,8500,0.0
+ORD-000201,2024-09-24,CUST-00101,Consumer,Central,Technology,Monitor,3,12748.21,8500,0.0
+ORD-000202,2025-10-25,CUST-00071,Consumer,Central,Furniture,Study Desk,1,9725.21,6100,0.15
+ORD-000203,2024-12-27,CUST-00085,Consumer,South,Furniture,Office Chair,6,5967.0,4200,0.0
+ORD-000204,2025-05-25,CUST-00494,Consumer,North,Office Supplies,Notebook Pack,1,324.28,170,0.1
+ORD-000205,2024-11-29,CUST-00387,Consumer,West,Furniture,Study Desk,1,9687.92,6100,0.05
+ORD-000206,2024-07-13,CUST-00356,Corporate,East,Office Supplies,Desk Organizer,7,678.45,330,0.05
+ORD-000207,2025-07-11,CUST-00398,Small Business,South,Technology,Wireless Mouse,3,791.1,430,0.0
+ORD-000208,2025-12-08,CUST-00165,Small Business,West,Furniture,Bookshelf,5,7713.23,4800,0.0
+ORD-000209,2024-07-11,CUST-00154,Small Business,South,Furniture,Bookshelf,2,7472.02,4800,0.15
+ORD-000210,2025-07-22,CUST-00284,Consumer,South,Technology,Keyboard,7,1516.29,800,0.05
+ORD-000211,2024-07-09,CUST-00312,Small Business,North,Office Supplies,Desk Organizer,2,727.1,330,0.05
+ORD-000212,2025-06-07,CUST-00037,Small Business,East,Office Supplies,Pen Set,5,216.0,90,0.0
+ORD-000213,2025-07-29,CUST-00221,Small Business,West,Furniture,Office Chair,3,6158.18,4200,0.1
+ORD-000214,2024-11-24,CUST-00380,Small Business,East,Office Supplies,Desk Organizer,1,699.89,330,0.05
+ORD-000215,2025-06-21,CUST-00246,Small Business,East,Furniture,Bookshelf,7,7346.88,4800,0.1
+ORD-000216,2024-07-17,CUST-00258,Small Business,East,Technology,Wireless Mouse,3,921.69,430,0.05
+ORD-000217,2024-02-27,CUST-00481,Corporate,East,Office Supplies,Desk Organizer,7,655.32,330,0.0
+ORD-000218,2024-03-11,CUST-00001,Corporate,East,Technology,Wireless Mouse,5,895.77,430,0.1
+ORD-000219,2024-11-22,CUST-00285,Small Business,North,Furniture,Office Chair,2,7073.4,4200,0.0
+ORD-000220,2025-10-20,CUST-00163,Corporate,West,Office Supplies,Desk Organizer,2,687.72,330,0.1
+ORD-000221,2024-04-03,CUST-00452,Small Business,East,Technology,Wireless Mouse,2,893.54,430,0.1
+ORD-000222,2024-11-28,CUST-00112,Small Business,South,Office Supplies,Pen Set,6,209.02,90,0.0
+ORD-000223,2025-05-28,CUST-00496,Consumer,Central,Office Supplies,Desk Organizer,6,703.75,330,0.05
+ORD-000224,2024-05-27,CUST-00466,Consumer,South,Furniture,Bookshelf,3,7241.1,4800,0.1
+ORD-000225,2025-06-10,CUST-00220,Consumer,Central,Technology,Keyboard,7,1645.51,800,0.15
+ORD-000226,2024-08-11,CUST-00135,Consumer,South,Office Supplies,Pen Set,7,222.08,90,0.05
+ORD-000227,2025-08-13,CUST-00318,Corporate,East,Technology,Monitor,5,12598.02,8500,0.0
+ORD-000228,2025-02-26,CUST-00064,Corporate,North,Office Supplies,Notebook Pack,4,374.54,170,0.0
+ORD-000229,2025-02-03,CUST-00379,Small Business,East,Technology,Wireless Mouse,1,768.6,430,0.0
+ORD-000230,2024-05-09,CUST-00328,Small Business,South,Technology,Wireless Mouse,2,776.04,430,0.0
+ORD-000231,2024-12-04,CUST-00011,Consumer,Central,Furniture,Study Desk,6,8379.71,6100,0.05
+ORD-000232,2025-09-17,CUST-00221,Corporate,North,Technology,Keyboard,5,1590.83,800,0.1
+ORD-000233,2024-01-15,CUST-00090,Corporate,Central,Technology,Wireless Mouse,4,858.41,430,0.0
+ORD-000234,2025-07-07,CUST-00330,Consumer,West,Furniture,Office Chair,6,6629.25,4200,0.15
+ORD-000235,2024-12-25,CUST-00150,Small Business,East,Furniture,Study Desk,4,8747.4,6100,0.0
+ORD-000236,2025-06-09,CUST-00176,Corporate,West,Furniture,Office Chair,1,5873.97,4200,0.0
+ORD-000237,2025-04-29,CUST-00305,Corporate,West,Office Supplies,Desk Organizer,2,743.47,330,0.1
+ORD-000238,2024-11-11,CUST-00238,Corporate,West,Technology,Wireless Mouse,7,806.75,430,0.0
+ORD-000239,2024-08-13,CUST-00227,Consumer,East,Furniture,Office Chair,5,6079.67,4200,0.1
+ORD-000240,2025-04-02,CUST-00101,Corporate,Central,Office Supplies,Pen Set,4,198.79,90,0.15
+ORD-000241,2024-04-12,CUST-00007,Small Business,West,Office Supplies,Pen Set,4,240.69,90,0.15
+ORD-000242,2025-03-02,CUST-00275,Small Business,North,Technology,USB Hub,2,1283.95,620,0.05
+ORD-000243,2024-03-10,CUST-00209,Corporate,East,Furniture,Study Desk,4,8376.44,6100,0.1
+ORD-000244,2025-04-19,CUST-00365,Consumer,Central,Furniture,Office Chair,5,6464.21,4200,0.05
+ORD-000245,2025-04-03,CUST-00484,Consumer,West,Office Supplies,Notebook Pack,7,340.83,170,0.0
+ORD-000246,2024-03-02,CUST-00232,Corporate,Central,Office Supplies,Notebook Pack,6,366.39,170,0.0
+ORD-000247,2025-07-06,CUST-00189,Consumer,Central,Furniture,Bookshelf,5,6828.05,4800,0.05
+ORD-000248,2024-10-30,CUST-00129,Consumer,West,Office Supplies,Pen Set,1,241.44,90,0.0
+ORD-000249,2025-07-28,CUST-00337,Small Business,South,Office Supplies,Notebook Pack,5,319.99,170,0.05
+ORD-000250,2024-01-31,CUST-00143,Corporate,South,Furniture,Bookshelf,1,7697.81,4800,0.05
+ORD-000251,2024-05-11,CUST-00223,Small Business,Central,Technology,USB Hub,1,1236.19,620,0.0
+ORD-000252,2024-12-26,CUST-00245,Consumer,North,Office Supplies,Pen Set,5,204.72,90,0.05
+ORD-000253,2024-05-17,CUST-00144,Corporate,North,Technology,Wireless Mouse,4,839.98,430,0.0
+ORD-000254,2024-08-28,CUST-00140,Corporate,North,Office Supplies,Desk Organizer,2,716.01,330,0.0
+ORD-000255,2025-04-27,CUST-00055,Corporate,North,Technology,Monitor,6,11395.91,8500,0.05
+ORD-000256,2024-04-15,CUST-00405,Consumer,South,Technology,Keyboard,6,1509.13,800,0.05
+ORD-000257,2025-05-09,CUST-00258,Small Business,South,Technology,Wireless Mouse,5,836.62,430,0.0
+ORD-000258,2024-03-16,CUST-00471,Consumer,North,Technology,USB Hub,6,1224.33,620,0.1
+ORD-000259,2024-05-07,CUST-00393,Corporate,West,Furniture,Office Chair,6,7057.91,4200,0.15
+ORD-000260,2025-03-04,CUST-00223,Small Business,East,Furniture,Office Chair,3,6040.77,4200,0.0
+ORD-000261,2025-08-02,CUST-00009,Consumer,East,Technology,USB Hub,2,1282.24,620,0.0
+ORD-000262,2024-05-04,CUST-00489,Consumer,East,Technology,Keyboard,2,1389.28,800,0.0
+ORD-000263,2024-08-06,CUST-00133,Small Business,East,Furniture,Bookshelf,7,6610.61,4800,0.0
+ORD-000264,2025-11-06,CUST-00251,Small Business,Central,Technology,USB Hub,6,1142.12,620,0.05
+ORD-000265,2025-12-23,CUST-00224,Consumer,South,Furniture,Bookshelf,2,7711.88,4800,0.0
+ORD-000266,2025-02-28,CUST-00488,Consumer,North,Technology,Monitor,7,11523.36,8500,0.0
+ORD-000267,2024-11-22,CUST-00100,Small Business,West,Office Supplies,Desk Organizer,4,655.39,330,0.05
+ORD-000268,2024-09-10,CUST-00178,Corporate,South,Office Supplies,Notebook Pack,4,365.17,170,0.05
+ORD-000269,2025-03-23,CUST-00426,Consumer,East,Office Supplies,Desk Organizer,1,659.94,330,0.15
+ORD-000270,2025-03-07,CUST-00020,Corporate,East,Office Supplies,Desk Organizer,6,647.35,330,0.0
+ORD-000271,2024-08-03,CUST-00066,Consumer,Central,Furniture,Bookshelf,3,7829.15,4800,0.05
+ORD-000272,2024-01-17,CUST-00357,Small Business,Central,Technology,Monitor,3,11619.69,8500,0.0
+ORD-000273,2024-04-20,CUST-00267,Small Business,North,Technology,Monitor,6,12271.46,8500,0.0
+ORD-000274,2025-11-30,CUST-00133,Consumer,North,Technology,USB Hub,5,1105.98,620,0.0
+ORD-000275,2024-11-01,CUST-00017,Corporate,South,Office Supplies,Notebook Pack,6,328.51,170,0.0
+ORD-000276,2024-12-18,CUST-00170,Corporate,South,Office Supplies,Desk Organizer,7,642.56,330,0.0
+ORD-000277,2024-12-06,CUST-00378,Corporate,Central,Technology,Wireless Mouse,3,922.85,430,0.05
+ORD-000278,2025-07-25,CUST-00157,Consumer,West,Furniture,Study Desk,7,9476.56,6100,0.1
+ORD-000279,2024-02-17,CUST-00217,Consumer,West,Office Supplies,Pen Set,2,233.48,90,0.0
+ORD-000280,2024-03-01,CUST-00048,Small Business,Central,Technology,USB Hub,4,1264.82,620,0.0
+ORD-000281,2024-07-20,CUST-00018,Small Business,West,Technology,Monitor,1,12718.14,8500,0.05
+ORD-000282,2024-12-21,CUST-00049,Small Business,South,Office Supplies,Pen Set,3,216.22,90,0.0
+ORD-000283,2025-05-04,CUST-00133,Small Business,South,Office Supplies,Desk Organizer,4,689.51,330,0.1
+ORD-000284,2024-12-24,CUST-00446,Small Business,East,Technology,Keyboard,7,1448.34,800,0.05
+ORD-000285,2024-11-18,CUST-00129,Corporate,East,Technology,Keyboard,4,1395.54,800,0.0
+ORD-000286,2025-11-15,CUST-00207,Corporate,Central,Office Supplies,Desk Organizer,4,665.94,330,0.15
+ORD-000287,2024-04-27,CUST-00483,Corporate,Central,Technology,USB Hub,4,1114.1,620,0.05
+ORD-000288,2025-02-21,CUST-00409,Consumer,East,Office Supplies,Notebook Pack,2,333.44,170,0.15
+ORD-000289,2025-01-30,CUST-00282,Corporate,West,Furniture,Office Chair,3,5926.5,4200,0.05
+ORD-000290,2024-12-11,CUST-00034,Corporate,East,Technology,USB Hub,1,1142.05,620,0.05
+ORD-000291,2025-08-12,CUST-00468,Consumer,Central,Office Supplies,Notebook Pack,3,328.02,170,0.0
+ORD-000292,2024-07-13,CUST-00359,Corporate,East,Technology,Monitor,3,11175.1,8500,0.0
+ORD-000293,2025-11-27,CUST-00228,Consumer,Central,Furniture,Bookshelf,6,7174.62,4800,0.15
+ORD-000294,2024-08-30,CUST-00057,Corporate,Central,Furniture,Office Chair,7,7081.74,4200,0.0
+ORD-000295,2025-02-01,CUST-00226,Small Business,East,Technology,Keyboard,5,1407.01,800,0.1
+ORD-000296,2025-01-15,CUST-00352,Corporate,North,Furniture,Office Chair,4,5900.38,4200,0.05
+ORD-000297,2025-09-12,CUST-00328,Corporate,North,Technology,Keyboard,5,1634.96,800,0.1
+ORD-000298,2024-11-16,CUST-00069,Small Business,South,Office Supplies,Pen Set,4,214.21,90,0.05
+ORD-000299,2024-07-26,CUST-00031,Corporate,South,Office Supplies,Notebook Pack,6,332.82,170,0.0
+ORD-000300,2024-01-16,CUST-00131,Consumer,West,Technology,Wireless Mouse,5,830.99,430,0.0
+ORD-000301,2024-09-22,CUST-00386,Consumer,South,Furniture,Study Desk,7,9157.54,6100,0.15
+ORD-000302,2025-08-26,CUST-00454,Small Business,West,Technology,Monitor,1,10940.92,8500,0.0
+ORD-000303,2024-01-08,CUST-00493,Small Business,East,Furniture,Bookshelf,4,6613.61,4800,0.05
+ORD-000304,2025-10-16,CUST-00376,Consumer,East,Technology,Wireless Mouse,5,887.98,430,0.1
+ORD-000305,2025-01-31,CUST-00306,Corporate,West,Office Supplies,Desk Organizer,7,747.94,330,0.1
+ORD-000306,2024-04-12,CUST-00278,Small Business,South,Technology,Wireless Mouse,1,911.26,430,0.05
+ORD-000307,2024-08-08,CUST-00094,Small Business,South,Office Supplies,Desk Organizer,1,728.53,330,0.0
+ORD-000308,2025-02-08,CUST-00444,Small Business,West,Furniture,Office Chair,4,6109.73,4200,0.0
+ORD-000309,2024-08-18,CUST-00354,Corporate,West,Technology,USB Hub,2,1153.83,620,0.0
+ORD-000310,2024-03-20,CUST-00364,Corporate,North,Furniture,Office Chair,1,5856.31,4200,0.1
+ORD-000311,2025-05-01,CUST-00378,Consumer,East,Furniture,Bookshelf,3,7179.91,4800,0.0
+ORD-000312,2025-05-05,CUST-00261,Corporate,East,Technology,Keyboard,6,1529.45,800,0.1
+ORD-000313,2024-03-27,CUST-00040,Corporate,South,Office Supplies,Pen Set,6,205.95,90,0.0
+ORD-000314,2024-07-24,CUST-00088,Consumer,West,Technology,Keyboard,2,1498.89,800,0.15
+ORD-000315,2024-06-27,CUST-00034,Consumer,East,Furniture,Office Chair,7,5954.36,4200,0.0
+ORD-000316,2025-04-26,CUST-00105,Consumer,North,Office Supplies,Pen Set,3,223.24,90,0.05
+ORD-000317,2025-06-17,CUST-00188,Consumer,Central,Furniture,Study Desk,2,8349.44,6100,0.0
+ORD-000318,2025-06-14,CUST-00434,Small Business,South,Technology,Monitor,2,12162.59,8500,0.0
+ORD-000319,2025-11-16,CUST-00035,Corporate,West,Technology,Wireless Mouse,5,813.97,430,0.1
+ORD-000320,2025-07-15,CUST-00431,Small Business,Central,Technology,Wireless Mouse,7,780.12,430,0.0
+ORD-000321,2024-08-22,CUST-00426,Small Business,South,Furniture,Office Chair,4,6562.76,4200,0.0
+ORD-000322,2024-03-19,CUST-00244,Consumer,East,Technology,USB Hub,7,1317.38,620,0.0
+ORD-000323,2025-03-24,CUST-00026,Consumer,East,Office Supplies,Pen Set,7,237.0,90,0.05
+ORD-000324,2025-10-30,CUST-00132,Small Business,East,Furniture,Bookshelf,6,7007.88,4800,0.05
+ORD-000325,2025-12-12,CUST-00164,Small Business,South,Technology,Keyboard,3,1425.26,800,0.0
+ORD-000326,2024-06-17,CUST-00436,Consumer,West,Technology,Wireless Mouse,6,787.74,430,0.05
+ORD-000327,2024-06-21,CUST-00119,Corporate,North,Furniture,Bookshelf,1,6492.41,4800,0.0
+ORD-000328,2024-01-28,CUST-00493,Consumer,North,Technology,USB Hub,2,1259.54,620,0.0
+ORD-000329,2024-04-13,CUST-00378,Small Business,South,Furniture,Study Desk,3,8119.68,6100,0.05
+ORD-000330,2025-02-09,CUST-00129,Corporate,North,Technology,USB Hub,7,1109.74,620,0.05
+ORD-000331,2025-02-03,CUST-00396,Small Business,West,Office Supplies,Desk Organizer,2,754.96,330,0.1
+ORD-000332,2024-09-27,CUST-00278,Small Business,South,Technology,Wireless Mouse,4,821.06,430,0.15
+ORD-000333,2024-08-14,CUST-00487,Corporate,East,Office Supplies,Pen Set,7,221.65,90,0.05
+ORD-000334,2025-08-28,CUST-00119,Small Business,East,Office Supplies,Notebook Pack,3,319.72,170,0.15
+ORD-000335,2024-12-01,CUST-00099,Small Business,West,Furniture,Office Chair,1,5976.01,4200,0.15
+ORD-000336,2025-08-13,CUST-00035,Consumer,West,Furniture,Bookshelf,1,7389.55,4800,0.1
+ORD-000337,2025-12-04,CUST-00359,Small Business,East,Technology,USB Hub,7,1157.39,620,0.05
+ORD-000338,2024-08-19,CUST-00294,Consumer,West,Technology,USB Hub,1,1184.91,620,0.1
+ORD-000339,2024-05-27,CUST-00081,Consumer,South,Office Supplies,Pen Set,4,221.74,90,0.05
+ORD-000340,2025-11-26,CUST-00025,Corporate,East,Furniture,Study Desk,1,9149.36,6100,0.05
+ORD-000341,2025-04-08,CUST-00360,Consumer,West,Office Supplies,Desk Organizer,5,740.63,330,0.05
+ORD-000342,2024-07-31,CUST-00303,Small Business,North,Furniture,Study Desk,1,8591.68,6100,0.05
+ORD-000343,2025-03-29,CUST-00339,Consumer,North,Furniture,Bookshelf,4,7332.88,4800,0.0
+ORD-000344,2025-01-10,CUST-00413,Corporate,East,Technology,Monitor,7,12219.27,8500,0.0
+ORD-000345,2025-10-23,CUST-00432,Consumer,West,Furniture,Study Desk,6,9035.56,6100,0.0
+ORD-000346,2024-07-05,CUST-00072,Corporate,North,Technology,Wireless Mouse,6,828.48,430,0.15
+ORD-000347,2025-12-24,CUST-00118,Small Business,North,Office Supplies,Desk Organizer,7,677.36,330,0.1
+ORD-000348,2025-11-14,CUST-00386,Small Business,Central,Furniture,Study Desk,6,8299.48,6100,0.05
+ORD-000349,2024-05-11,CUST-00201,Consumer,North,Furniture,Bookshelf,2,7809.56,4800,0.1
+ORD-000350,2024-04-30,CUST-00276,Corporate,South,Office Supplies,Desk Organizer,7,744.72,330,0.05
+ORD-000351,2025-01-24,CUST-00341,Small Business,Central,Technology,Wireless Mouse,5,905.96,430,0.0
+ORD-000352,2024-02-02,CUST-00470,Corporate,Central,Furniture,Office Chair,5,6542.14,4200,0.05
+ORD-000353,2024-08-06,CUST-00210,Small Business,North,Furniture,Study Desk,5,8274.16,6100,0.0
+ORD-000354,2024-11-13,CUST-00073,Consumer,South,Technology,USB Hub,3,1211.67,620,0.0
+ORD-000355,2025-12-08,CUST-00282,Small Business,South,Office Supplies,Notebook Pack,3,358.83,170,0.15
+ORD-000356,2025-12-25,CUST-00456,Consumer,Central,Office Supplies,Notebook Pack,7,373.04,170,0.05
+ORD-000357,2024-04-20,CUST-00319,Corporate,West,Office Supplies,Desk Organizer,5,632.31,330,0.15
+ORD-000358,2025-10-12,CUST-00390,Consumer,South,Furniture,Study Desk,2,8122.31,6100,0.05
+ORD-000359,2024-03-07,CUST-00219,Corporate,South,Technology,Monitor,1,11399.58,8500,0.05
+ORD-000360,2025-06-30,CUST-00484,Corporate,North,Furniture,Study Desk,1,8675.4,6100,0.0
+ORD-000361,2025-09-09,CUST-00250,Consumer,West,Office Supplies,Desk Organizer,2,763.0,330,0.0
+ORD-000362,2025-10-12,CUST-00013,Consumer,South,Office Supplies,Pen Set,7,218.4,90,0.0
+ORD-000363,2024-06-12,CUST-00339,Consumer,West,Furniture,Study Desk,5,9029.83,6100,0.05
+ORD-000364,2025-10-14,CUST-00021,Small Business,North,Technology,Keyboard,4,1546.5,800,0.15
+ORD-000365,2024-03-25,CUST-00279,Corporate,West,Office Supplies,Notebook Pack,5,372.87,170,0.05
+ORD-000366,2025-01-13,CUST-00348,Small Business,Central,Technology,Monitor,2,11093.49,8500,0.15
+ORD-000367,2024-12-08,CUST-00418,Corporate,North,Office Supplies,Notebook Pack,3,328.62,170,0.0
+ORD-000368,2024-08-18,CUST-00167,Consumer,North,Office Supplies,Desk Organizer,7,693.15,330,0.0
+ORD-000369,2024-01-17,CUST-00446,Small Business,West,Furniture,Bookshelf,5,6659.15,4800,0.0
+ORD-000370,2025-07-17,CUST-00045,Corporate,East,Furniture,Bookshelf,4,7837.21,4800,0.15
+ORD-000371,2024-09-01,CUST-00334,Corporate,East,Office Supplies,Desk Organizer,6,735.48,330,0.0
+ORD-000372,2025-04-28,CUST-00307,Small Business,South,Technology,Wireless Mouse,4,878.23,430,0.0
+ORD-000373,2024-10-26,CUST-00409,Corporate,East,Technology,USB Hub,7,1265.49,620,0.0
+ORD-000374,2024-09-29,CUST-00099,Corporate,Central,Technology,Keyboard,3,1596.92,800,0.15
+ORD-000375,2025-10-08,CUST-00479,Corporate,South,Office Supplies,Pen Set,7,239.0,90,0.05
+ORD-000376,2024-03-09,CUST-00280,Corporate,South,Technology,Keyboard,5,1436.57,800,0.0
+ORD-000377,2025-06-21,CUST-00248,Small Business,Central,Furniture,Office Chair,5,6669.2,4200,0.05
+ORD-000378,2025-06-29,CUST-00232,Corporate,South,Technology,Keyboard,2,1596.88,800,0.0
+ORD-000379,2024-10-04,CUST-00380,Small Business,East,Furniture,Bookshelf,6,7722.61,4800,0.0
+ORD-000380,2024-07-10,CUST-00364,Small Business,West,Furniture,Bookshelf,3,7436.99,4800,0.1
+ORD-000381,2024-01-04,CUST-00210,Consumer,Central,Technology,USB Hub,2,1258.7,620,0.05
+ORD-000382,2025-11-14,CUST-00197,Corporate,East,Furniture,Bookshelf,2,6632.56,4800,0.0
+ORD-000383,2025-11-22,CUST-00198,Small Business,South,Technology,USB Hub,5,1139.04,620,0.05
+ORD-000384,2024-06-24,CUST-00447,Corporate,North,Office Supplies,Pen Set,3,223.29,90,0.05
+ORD-000385,2024-01-24,CUST-00224,Consumer,South,Technology,Monitor,4,11932.51,8500,0.05
+ORD-000386,2024-03-30,CUST-00236,Small Business,Central,Technology,Monitor,1,12589.56,8500,0.0
+ORD-000387,2024-02-19,CUST-00426,Consumer,North,Office Supplies,Pen Set,5,223.64,90,0.0
+ORD-000388,2025-08-29,CUST-00120,Small Business,West,Furniture,Bookshelf,3,6847.38,4800,0.05
+ORD-000389,2025-10-13,CUST-00191,Consumer,Central,Technology,USB Hub,3,1316.87,620,0.1
+ORD-000390,2024-04-21,CUST-00410,Corporate,North,Technology,Wireless Mouse,6,831.86,430,0.1
+ORD-000391,2025-06-29,CUST-00266,Consumer,South,Furniture,Bookshelf,5,7649.71,4800,0.1
+ORD-000392,2024-05-10,CUST-00446,Consumer,South,Technology,Keyboard,4,1401.12,800,0.05
+ORD-000393,2024-09-25,CUST-00124,Consumer,South,Furniture,Bookshelf,1,6680.88,4800,0.1
+ORD-000394,2025-03-13,CUST-00252,Corporate,Central,Furniture,Office Chair,3,5865.78,4200,0.05
+ORD-000395,2025-06-09,CUST-00403,Consumer,South,Office Supplies,Desk Organizer,7,687.45,330,0.0
+ORD-000396,2025-09-30,CUST-00392,Consumer,North,Technology,Monitor,6,11744.3,8500,0.1
+ORD-000397,2024-02-02,CUST-00150,Consumer,East,Furniture,Office Chair,5,6284.32,4200,0.0
+ORD-000398,2024-05-23,CUST-00091,Consumer,East,Office Supplies,Desk Organizer,6,728.94,330,0.05
+ORD-000399,2024-07-23,CUST-00422,Corporate,North,Furniture,Office Chair,3,6844.26,4200,0.0
+ORD-000400,2024-08-14,CUST-00103,Small Business,North,Office Supplies,Pen Set,2,219.87,90,0.0
+ORD-000401,2025-12-29,CUST-00362,Corporate,Central,Furniture,Office Chair,1,5955.02,4200,0.1
+ORD-000402,2025-07-21,CUST-00434,Corporate,West,Office Supplies,Pen Set,7,227.66,90,0.05
+ORD-000403,2024-08-21,CUST-00459,Corporate,North,Office Supplies,Desk Organizer,6,674.21,330,0.0
+ORD-000404,2025-12-10,CUST-00223,Consumer,West,Office Supplies,Pen Set,4,235.01,90,0.15
+ORD-000405,2024-12-30,CUST-00399,Consumer,Central,Technology,Wireless Mouse,3,773.31,430,0.1
+ORD-000406,2024-12-31,CUST-00324,Corporate,East,Office Supplies,Desk Organizer,5,666.36,330,0.0
+ORD-000407,2024-11-12,CUST-00052,Consumer,West,Office Supplies,Notebook Pack,6,339.6,170,0.0
+ORD-000408,2024-04-15,CUST-00343,Small Business,East,Furniture,Bookshelf,2,7826.34,4800,0.0
+ORD-000409,2025-11-13,CUST-00038,Corporate,West,Office Supplies,Pen Set,5,241.49,90,0.1
+ORD-000410,2024-01-11,CUST-00313,Small Business,South,Technology,Monitor,4,12430.76,8500,0.1
+ORD-000411,2024-05-07,CUST-00246,Corporate,North,Office Supplies,Pen Set,1,224.22,90,0.0
+ORD-000412,2024-06-16,CUST-00165,Corporate,West,Technology,Wireless Mouse,5,796.25,430,0.0
+ORD-000413,2024-07-22,CUST-00436,Consumer,West,Technology,Wireless Mouse,2,771.79,430,0.0
+ORD-000414,2024-04-06,CUST-00141,Small Business,East,Office Supplies,Desk Organizer,4,690.84,330,0.15
+ORD-000415,2024-01-14,CUST-00339,Corporate,North,Furniture,Office Chair,5,7092.62,4200,0.15
+ORD-000416,2025-05-09,CUST-00233,Consumer,South,Furniture,Bookshelf,1,7650.02,4800,0.1
+ORD-000417,2025-12-08,CUST-00226,Corporate,East,Technology,Wireless Mouse,7,905.49,430,0.05
+ORD-000418,2024-03-29,CUST-00325,Corporate,South,Office Supplies,Desk Organizer,7,682.04,330,0.0
+ORD-000419,2024-08-04,CUST-00217,Corporate,East,Technology,USB Hub,3,1138.89,620,0.0
+ORD-000420,2025-01-04,CUST-00117,Corporate,North,Office Supplies,Desk Organizer,7,737.45,330,0.0
+ORD-000421,2025-11-08,CUST-00216,Consumer,Central,Office Supplies,Desk Organizer,2,674.92,330,0.1
+ORD-000422,2025-05-21,CUST-00330,Small Business,East,Technology,USB Hub,4,1259.47,620,0.05
+ORD-000423,2025-07-13,CUST-00263,Consumer,South,Furniture,Study Desk,5,8287.65,6100,0.0
+ORD-000424,2025-02-28,CUST-00205,Corporate,East,Furniture,Office Chair,6,7059.92,4200,0.0
+ORD-000425,2024-10-31,CUST-00229,Consumer,North,Furniture,Study Desk,7,8549.19,6100,0.0
+ORD-000426,2024-05-25,CUST-00138,Consumer,East,Furniture,Office Chair,1,6537.75,4200,0.0
+ORD-000427,2025-09-22,CUST-00047,Consumer,East,Technology,Wireless Mouse,2,820.94,430,0.05
+ORD-000428,2025-08-10,CUST-00013,Corporate,Central,Technology,Wireless Mouse,3,783.41,430,0.0
+ORD-000429,2024-01-19,CUST-00490,Corporate,West,Technology,Wireless Mouse,7,868.75,430,0.15
+ORD-000430,2025-06-06,CUST-00487,Corporate,South,Furniture,Office Chair,3,6659.99,4200,0.0
+ORD-000431,2024-03-02,CUST-00465,Consumer,North,Technology,Keyboard,4,1649.12,800,0.0
+ORD-000432,2025-06-23,CUST-00483,Corporate,North,Furniture,Study Desk,3,9761.16,6100,0.05
+ORD-000433,2025-08-25,CUST-00075,Corporate,East,Office Supplies,Pen Set,7,227.63,90,0.05
+ORD-000434,2024-04-05,CUST-00122,Consumer,Central,Technology,Wireless Mouse,6,770.86,430,0.1
+ORD-000435,2024-11-12,CUST-00004,Small Business,North,Furniture,Bookshelf,4,7450.77,4800,0.0
+ORD-000436,2024-03-31,CUST-00342,Corporate,East,Technology,Monitor,2,11676.44,8500,0.05
+ORD-000437,2025-02-18,CUST-00104,Small Business,East,Office Supplies,Desk Organizer,5,753.47,330,0.05
+ORD-000438,2025-11-08,CUST-00161,Small Business,North,Furniture,Study Desk,6,8540.33,6100,0.0
+ORD-000439,2024-02-29,CUST-00112,Consumer,Central,Technology,USB Hub,6,1120.47,620,0.0
+ORD-000440,2024-10-17,CUST-00162,Corporate,West,Furniture,Study Desk,1,9823.85,6100,0.1
+ORD-000441,2025-12-11,CUST-00388,Consumer,North,Furniture,Office Chair,1,7037.4,4200,0.05
+ORD-000442,2024-08-07,CUST-00079,Corporate,North,Technology,Keyboard,5,1424.38,800,0.15
+ORD-000443,2024-04-06,CUST-00484,Small Business,North,Technology,USB Hub,5,1222.12,620,0.0
+ORD-000444,2024-12-22,CUST-00160,Small Business,South,Furniture,Study Desk,3,9132.92,6100,0.0
+ORD-000445,2025-01-06,CUST-00325,Consumer,North,Technology,Keyboard,2,1629.18,800,0.05
+ORD-000446,2025-04-28,CUST-00327,Small Business,West,Office Supplies,Pen Set,2,229.51,90,0.1
+ORD-000447,2024-08-17,CUST-00139,Small Business,North,Technology,Monitor,6,12255.0,8500,0.0
+ORD-000448,2025-11-28,CUST-00031,Small Business,East,Furniture,Office Chair,4,6058.44,4200,0.05
+ORD-000449,2025-01-15,CUST-00411,Consumer,South,Office Supplies,Pen Set,7,222.15,90,0.05
+ORD-000450,2024-07-28,CUST-00327,Consumer,South,Technology,Keyboard,6,1643.77,800,0.0
+ORD-000451,2025-12-02,CUST-00297,Corporate,South,Office Supplies,Pen Set,5,230.81,90,0.0
+ORD-000452,2025-11-06,CUST-00295,Corporate,North,Office Supplies,Pen Set,5,201.5,90,0.1
+ORD-000453,2024-12-30,CUST-00444,Corporate,West,Technology,Keyboard,3,1559.46,800,0.0
+ORD-000454,2024-01-19,CUST-00474,Consumer,North,Furniture,Bookshelf,6,6949.67,4800,0.0
+ORD-000455,2025-03-11,CUST-00371,Corporate,East,Office Supplies,Desk Organizer,3,709.9,330,0.0
+ORD-000456,2025-02-09,CUST-00134,Small Business,Central,Office Supplies,Notebook Pack,3,357.17,170,0.0
+ORD-000457,2024-04-18,CUST-00033,Corporate,South,Office Supplies,Pen Set,3,208.12,90,0.15
+ORD-000458,2025-04-07,CUST-00309,Small Business,North,Technology,Monitor,6,11242.34,8500,0.05
+ORD-000459,2025-09-05,CUST-00462,Small Business,West,Furniture,Study Desk,2,8905.29,6100,0.1
+ORD-000460,2024-03-18,CUST-00231,Consumer,West,Technology,USB Hub,2,1300.48,620,0.0
+ORD-000461,2025-06-12,CUST-00049,Small Business,West,Technology,USB Hub,4,1267.88,620,0.05
+ORD-000462,2024-04-12,CUST-00309,Consumer,North,Furniture,Study Desk,4,8488.03,6100,0.0
+ORD-000463,2025-06-30,CUST-00221,Consumer,South,Technology,Monitor,6,12918.74,8500,0.0
+ORD-000464,2024-11-01,CUST-00205,Corporate,North,Technology,Keyboard,7,1569.49,800,0.0
+ORD-000465,2024-01-05,CUST-00482,Consumer,Central,Technology,Wireless Mouse,4,888.01,430,0.1
+ORD-000466,2025-12-06,CUST-00169,Consumer,West,Technology,USB Hub,5,1226.11,620,0.0
+ORD-000467,2024-05-01,CUST-00057,Consumer,West,Technology,Wireless Mouse,2,897.76,430,0.1
+ORD-000468,2025-03-11,CUST-00103,Corporate,East,Office Supplies,Notebook Pack,7,353.28,170,0.15
+ORD-000469,2024-05-12,CUST-00458,Consumer,Central,Office Supplies,Pen Set,2,240.44,90,0.05
+ORD-000470,2025-11-12,CUST-00042,Consumer,South,Furniture,Office Chair,2,6184.99,4200,0.0
+ORD-000471,2025-06-22,CUST-00098,Consumer,Central,Furniture,Bookshelf,2,7575.61,4800,0.05
+ORD-000472,2025-08-10,CUST-00166,Small Business,West,Technology,Monitor,5,11248.06,8500,0.15
+ORD-000473,2024-11-11,CUST-00128,Corporate,West,Technology,Keyboard,5,1546.93,800,0.05
+ORD-000474,2024-12-07,CUST-00080,Small Business,West,Office Supplies,Desk Organizer,2,667.89,330,0.0
+ORD-000475,2025-04-08,CUST-00166,Small Business,South,Office Supplies,Notebook Pack,7,346.79,170,0.0
+ORD-000476,2025-07-26,CUST-00271,Consumer,North,Furniture,Office Chair,2,6745.57,4200,0.15
+ORD-000477,2025-09-10,CUST-00450,Corporate,North,Technology,Keyboard,2,1362.89,800,0.1
+ORD-000478,2024-01-14,CUST-00421,Corporate,North,Office Supplies,Pen Set,4,232.18,90,0.0
+ORD-000479,2025-04-29,CUST-00087,Corporate,Central,Technology,Keyboard,5,1369.1,800,0.1
+ORD-000480,2024-03-20,CUST-00367,Consumer,West,Office Supplies,Desk Organizer,1,750.18,330,0.0
+ORD-000481,2024-07-29,CUST-00299,Consumer,South,Office Supplies,Notebook Pack,2,323.67,170,0.0
+ORD-000482,2025-08-28,CUST-00036,Small Business,North,Office Supplies,Notebook Pack,1,379.12,170,0.0
+ORD-000483,2024-07-01,CUST-00482,Small Business,North,Furniture,Bookshelf,1,7509.49,4800,0.05
+ORD-000484,2025-08-04,CUST-00048,Consumer,North,Technology,Monitor,2,10983.93,8500,0.05
+ORD-000485,2024-12-03,CUST-00336,Consumer,West,Technology,USB Hub,5,1316.3,620,0.05
+ORD-000486,2024-06-18,CUST-00433,Small Business,South,Office Supplies,Notebook Pack,1,315.31,170,0.05
+ORD-000487,2024-08-31,CUST-00129,Small Business,East,Office Supplies,Pen Set,6,205.65,90,0.0
+ORD-000488,2025-01-22,CUST-00363,Consumer,Central,Furniture,Office Chair,7,6036.29,4200,0.0
+ORD-000489,2025-07-12,CUST-00014,Consumer,East,Technology,Wireless Mouse,5,883.99,430,0.05
+ORD-000490,2025-03-18,CUST-00277,Corporate,North,Furniture,Study Desk,2,8377.75,6100,0.15
+ORD-000491,2025-11-12,CUST-00461,Small Business,Central,Office Supplies,Pen Set,3,226.57,90,0.15
+ORD-000492,2025-09-25,CUST-00002,Consumer,North,Furniture,Study Desk,1,8297.08,6100,0.0
+ORD-000493,2025-07-03,CUST-00350,Small Business,West,Office Supplies,Desk Organizer,2,712.63,330,0.0
+ORD-000494,2025-03-16,CUST-00178,Corporate,North,Furniture,Bookshelf,2,6884.05,4800,0.0
+ORD-000495,2024-07-30,CUST-00406,Consumer,West,Furniture,Office Chair,4,6754.22,4200,0.0
+ORD-000496,2024-10-28,CUST-00338,Corporate,North,Furniture,Bookshelf,7,7413.26,4800,0.05
+ORD-000497,2024-03-27,CUST-00056,Consumer,East,Technology,Keyboard,2,1379.98,800,0.0
+ORD-000498,2024-09-30,CUST-00477,Consumer,South,Technology,Wireless Mouse,4,825.38,430,0.0
+ORD-000499,2025-11-07,CUST-00281,Small Business,Central,Office Supplies,Pen Set,7,211.2,90,0.0
+ORD-000500,2024-11-06,CUST-00173,Consumer,Central,Furniture,Study Desk,3,9682.96,6100,0.05
+ORD-000501,2024-03-24,CUST-00276,Corporate,South,Technology,USB Hub,4,1197.35,620,0.0
+ORD-000502,2025-04-20,CUST-00051,Small Business,South,Technology,USB Hub,1,1215.68,620,0.0
+ORD-000503,2025-12-03,CUST-00348,Consumer,North,Technology,Wireless Mouse,2,846.1,430,0.0
+ORD-000504,2025-09-25,CUST-00095,Small Business,West,Technology,Wireless Mouse,4,926.76,430,0.0
+ORD-000505,2024-07-19,CUST-00297,Consumer,West,Furniture,Bookshelf,3,7502.29,4800,0.1
+ORD-000506,2024-11-27,CUST-00242,Corporate,East,Office Supplies,Pen Set,2,212.25,90,0.0
+ORD-000507,2025-01-22,CUST-00017,Consumer,South,Office Supplies,Desk Organizer,4,643.19,330,0.0
+ORD-000508,2024-06-29,CUST-00314,Consumer,East,Furniture,Study Desk,1,8262.31,6100,0.0
+ORD-000509,2024-07-15,CUST-00360,Small Business,East,Office Supplies,Desk Organizer,5,698.82,330,0.05
+ORD-000510,2024-06-21,CUST-00378,Small Business,East,Technology,USB Hub,3,1195.01,620,0.0
+ORD-000511,2025-12-27,CUST-00160,Corporate,South,Technology,USB Hub,4,1319.86,620,0.1
+ORD-000512,2025-06-28,CUST-00031,Consumer,North,Office Supplies,Notebook Pack,7,356.97,170,0.0
+ORD-000513,2025-09-05,CUST-00468,Corporate,East,Technology,USB Hub,6,1227.99,620,0.0
+ORD-000514,2025-08-19,CUST-00368,Small Business,North,Office Supplies,Notebook Pack,2,320.99,170,0.0
+ORD-000515,2025-12-01,CUST-00217,Small Business,West,Technology,Wireless Mouse,7,901.23,430,0.05
+ORD-000516,2024-03-17,CUST-00203,Consumer,Central,Technology,USB Hub,7,1201.55,620,0.0
+ORD-000517,2025-10-05,CUST-00138,Small Business,North,Technology,USB Hub,4,1138.24,620,0.0
+ORD-000518,2024-02-18,CUST-00262,Corporate,Central,Technology,Keyboard,3,1437.7,800,0.05
+ORD-000519,2024-12-13,CUST-00411,Corporate,North,Technology,Keyboard,6,1381.05,800,0.05
+ORD-000520,2025-03-09,CUST-00397,Consumer,East,Office Supplies,Pen Set,6,232.05,90,0.0
+ORD-000521,2024-09-18,CUST-00058,Small Business,North,Furniture,Office Chair,4,6277.63,4200,0.05
+ORD-000522,2024-04-16,CUST-00280,Small Business,East,Technology,Keyboard,4,1553.38,800,0.05
+ORD-000523,2024-05-20,CUST-00173,Consumer,East,Furniture,Office Chair,2,6625.36,4200,0.0
+ORD-000524,2025-08-25,CUST-00347,Consumer,West,Furniture,Office Chair,5,6025.57,4200,0.0
+ORD-000525,2024-08-20,CUST-00019,Small Business,Central,Technology,USB Hub,4,1119.16,620,0.05
+ORD-000526,2024-08-14,CUST-00006,Corporate,Central,Furniture,Study Desk,5,8918.87,6100,0.15
+ORD-000527,2025-11-05,CUST-00433,Corporate,Central,Technology,Keyboard,1,1517.05,800,0.0
+ORD-000528,2024-04-15,CUST-00274,Small Business,Central,Office Supplies,Pen Set,7,217.33,90,0.0
+ORD-000529,2025-10-30,CUST-00349,Consumer,Central,Furniture,Office Chair,3,5886.85,4200,0.1
+ORD-000530,2025-11-03,CUST-00038,Small Business,North,Furniture,Bookshelf,6,7476.42,4800,0.05
+ORD-000531,2025-03-12,CUST-00417,Corporate,East,Furniture,Office Chair,4,7029.36,4200,0.1
+ORD-000532,2024-04-30,CUST-00258,Corporate,South,Furniture,Bookshelf,3,7208.6,4800,0.0
+ORD-000533,2024-04-23,CUST-00067,Corporate,East,Furniture,Study Desk,7,8197.89,6100,0.0
+ORD-000534,2024-07-26,CUST-00310,Consumer,West,Office Supplies,Notebook Pack,4,319.01,170,0.1
+ORD-000535,2025-02-25,CUST-00171,Consumer,West,Technology,USB Hub,4,1176.63,620,0.0
+ORD-000536,2024-04-22,CUST-00044,Small Business,Central,Office Supplies,Desk Organizer,5,759.4,330,0.1
+ORD-000537,2024-11-28,CUST-00279,Small Business,Central,Furniture,Study Desk,2,8546.22,6100,0.0
+ORD-000538,2024-03-25,CUST-00165,Corporate,South,Technology,Monitor,7,10817.0,8500,0.05
+ORD-000539,2025-01-29,CUST-00094,Consumer,North,Technology,Keyboard,6,1459.31,800,0.1
+ORD-000540,2024-01-16,CUST-00339,Small Business,West,Technology,Keyboard,1,1448.43,800,0.1
+ORD-000541,2025-06-01,CUST-00280,Corporate,North,Technology,Monitor,6,10884.22,8500,0.15
+ORD-000542,2024-02-10,CUST-00468,Consumer,Central,Office Supplies,Pen Set,3,198.9,90,0.1
+ORD-000543,2024-05-22,CUST-00394,Corporate,North,Technology,Keyboard,4,1436.46,800,0.1
+ORD-000544,2024-05-07,CUST-00310,Corporate,South,Technology,USB Hub,1,1154.49,620,0.15
+ORD-000545,2025-08-29,CUST-00224,Small Business,East,Furniture,Study Desk,4,8837.1,6100,0.05
+ORD-000546,2024-02-08,CUST-00413,Corporate,Central,Furniture,Study Desk,6,9777.8,6100,0.05
+ORD-000547,2024-11-09,CUST-00352,Consumer,Central,Technology,Keyboard,3,1518.89,800,0.05
+ORD-000548,2025-03-07,CUST-00338,Consumer,West,Technology,Monitor,2,11300.75,8500,0.05
+ORD-000549,2025-01-11,CUST-00002,Small Business,Central,Technology,Monitor,7,12264.06,8500,0.0
+ORD-000550,2025-05-11,CUST-00358,Small Business,West,Office Supplies,Pen Set,2,215.25,90,0.1
+ORD-000551,2025-08-09,CUST-00285,Corporate,North,Furniture,Study Desk,7,9260.77,6100,0.1
+ORD-000552,2024-10-14,CUST-00248,Corporate,Central,Technology,Monitor,6,12435.29,8500,0.0
+ORD-000553,2025-08-27,CUST-00353,Consumer,Central,Office Supplies,Pen Set,5,240.74,90,0.15
+ORD-000554,2024-08-20,CUST-00305,Small Business,North,Furniture,Bookshelf,7,7262.43,4800,0.1
+ORD-000555,2025-12-19,CUST-00434,Small Business,North,Office Supplies,Desk Organizer,5,683.33,330,0.05
+ORD-000556,2025-01-03,CUST-00055,Small Business,North,Furniture,Study Desk,5,9607.71,6100,0.05
+ORD-000557,2025-06-21,CUST-00009,Consumer,East,Office Supplies,Notebook Pack,7,326.51,170,0.1
+ORD-000558,2025-09-30,CUST-00114,Small Business,East,Technology,USB Hub,5,1117.07,620,0.0
+ORD-000559,2025-08-01,CUST-00272,Corporate,Central,Office Supplies,Pen Set,6,207.91,90,0.0
+ORD-000560,2025-09-13,CUST-00240,Small Business,Central,Office Supplies,Desk Organizer,3,646.02,330,0.1
+ORD-000561,2025-01-26,CUST-00277,Consumer,South,Office Supplies,Pen Set,5,220.85,90,0.0
+ORD-000562,2024-02-01,CUST-00249,Corporate,Central,Technology,USB Hub,7,1229.45,620,0.05
+ORD-000563,2024-12-25,CUST-00252,Consumer,Central,Office Supplies,Pen Set,5,206.12,90,0.15
+ORD-000564,2024-05-12,CUST-00430,Consumer,East,Technology,USB Hub,6,1280.93,620,0.0
+ORD-000565,2025-10-11,CUST-00071,Consumer,South,Technology,USB Hub,7,1186.98,620,0.0
+ORD-000566,2024-06-21,CUST-00410,Corporate,South,Office Supplies,Desk Organizer,1,734.34,330,0.0
+ORD-000567,2024-06-15,CUST-00396,Corporate,East,Technology,USB Hub,5,1253.39,620,0.15
+ORD-000568,2024-07-01,CUST-00195,Consumer,East,Furniture,Bookshelf,7,7602.27,4800,0.0
+ORD-000569,2025-04-14,CUST-00164,Consumer,Central,Office Supplies,Pen Set,1,201.82,90,0.0
+ORD-000570,2025-02-20,CUST-00434,Small Business,Central,Office Supplies,Pen Set,4,239.86,90,0.0
+ORD-000571,2025-11-23,CUST-00065,Consumer,East,Furniture,Office Chair,2,6136.06,4200,0.15
+ORD-000572,2024-10-30,CUST-00072,Consumer,South,Furniture,Office Chair,4,6108.64,4200,0.0
+ORD-000573,2024-07-25,CUST-00164,Corporate,West,Office Supplies,Desk Organizer,3,754.64,330,0.05
+ORD-000574,2024-02-05,CUST-00183,Corporate,North,Office Supplies,Pen Set,4,212.11,90,0.15
+ORD-000575,2024-01-06,CUST-00139,Small Business,East,Office Supplies,Desk Organizer,2,746.97,330,0.05
+ORD-000576,2024-09-29,CUST-00442,Consumer,West,Office Supplies,Desk Organizer,6,719.98,330,0.0
+ORD-000577,2025-11-06,CUST-00482,Corporate,East,Technology,Wireless Mouse,6,835.67,430,0.05
+ORD-000578,2025-01-17,CUST-00411,Consumer,South,Technology,Wireless Mouse,4,901.77,430,0.05
+ORD-000579,2025-10-14,CUST-00016,Consumer,Central,Office Supplies,Notebook Pack,5,327.35,170,0.0
+ORD-000580,2024-03-15,CUST-00175,Consumer,South,Furniture,Bookshelf,2,6835.78,4800,0.1
+ORD-000581,2024-03-09,CUST-00105,Small Business,South,Furniture,Office Chair,7,6114.09,4200,0.0
+ORD-000582,2025-08-31,CUST-00080,Small Business,East,Furniture,Office Chair,4,6993.31,4200,0.0
+ORD-000583,2024-03-18,CUST-00454,Corporate,Central,Technology,Wireless Mouse,7,880.51,430,0.0
+ORD-000584,2024-02-07,CUST-00106,Corporate,North,Technology,Keyboard,3,1464.0,800,0.05
+ORD-000585,2024-10-21,CUST-00305,Small Business,South,Furniture,Study Desk,6,8722.53,6100,0.1
+ORD-000586,2025-11-06,CUST-00161,Small Business,East,Furniture,Bookshelf,3,6880.55,4800,0.0
+ORD-000587,2025-05-18,CUST-00086,Small Business,East,Technology,Monitor,1,11968.91,8500,0.0
+ORD-000588,2024-03-13,CUST-00174,Corporate,Central,Furniture,Office Chair,5,6649.68,4200,0.0
+ORD-000589,2025-09-03,CUST-00300,Corporate,North,Furniture,Office Chair,2,6555.31,4200,0.1
+ORD-000590,2025-09-07,CUST-00150,Corporate,North,Furniture,Study Desk,2,8144.6,6100,0.0
+ORD-000591,2025-08-07,CUST-00122,Corporate,East,Furniture,Bookshelf,1,7465.4,4800,0.0
+ORD-000592,2025-10-20,CUST-00166,Consumer,West,Technology,Wireless Mouse,5,839.64,430,0.1
+ORD-000593,2024-06-24,CUST-00379,Small Business,Central,Furniture,Bookshelf,2,7566.28,4800,0.1
+ORD-000594,2025-12-16,CUST-00365,Corporate,Central,Furniture,Bookshelf,3,7825.94,4800,0.05
+ORD-000595,2024-08-22,CUST-00257,Small Business,Central,Technology,Monitor,4,11835.26,8500,0.1
+ORD-000596,2025-08-08,CUST-00480,Corporate,South,Furniture,Bookshelf,6,7501.85,4800,0.1
+ORD-000597,2025-02-26,CUST-00453,Corporate,East,Office Supplies,Pen Set,2,223.48,90,0.0
+ORD-000598,2025-07-23,CUST-00128,Corporate,West,Furniture,Bookshelf,2,7625.94,4800,0.0
+ORD-000599,2025-04-03,CUST-00095,Consumer,Central,Office Supplies,Notebook Pack,4,350.75,170,0.0
+ORD-000600,2025-04-14,CUST-00125,Small Business,Central,Technology,Monitor,2,11542.97,8500,0.0
+ORD-000601,2025-03-25,CUST-00256,Small Business,East,Furniture,Office Chair,6,6826.71,4200,0.05
+ORD-000602,2025-07-22,CUST-00131,Consumer,South,Office Supplies,Desk Organizer,4,759.9,330,0.0
+ORD-000603,2025-06-23,CUST-00164,Corporate,North,Technology,USB Hub,4,1139.69,620,0.0
+ORD-000604,2024-04-08,CUST-00256,Consumer,South,Office Supplies,Pen Set,6,227.13,90,0.05
+ORD-000605,2025-08-26,CUST-00480,Corporate,West,Office Supplies,Pen Set,3,233.98,90,0.1
+ORD-000606,2025-01-26,CUST-00352,Corporate,North,Office Supplies,Desk Organizer,4,736.12,330,0.15
+ORD-000607,2024-08-23,CUST-00418,Consumer,Central,Office Supplies,Notebook Pack,4,330.83,170,0.05
+ORD-000608,2025-01-10,CUST-00480,Corporate,North,Furniture,Bookshelf,2,6982.57,4800,0.05
+ORD-000609,2025-12-06,CUST-00163,Consumer,North,Technology,Wireless Mouse,5,791.1,430,0.05
+ORD-000610,2025-09-18,CUST-00324,Corporate,West,Technology,Monitor,4,11796.68,8500,0.0
+ORD-000611,2025-08-31,CUST-00104,Consumer,South,Technology,Wireless Mouse,2,795.3,430,0.0
+ORD-000612,2024-12-03,CUST-00333,Small Business,West,Technology,Wireless Mouse,4,924.07,430,0.1
+ORD-000613,2025-07-26,CUST-00069,Small Business,East,Furniture,Study Desk,6,8210.87,6100,0.0
+ORD-000614,2024-10-08,CUST-00214,Consumer,South,Technology,Keyboard,7,1555.75,800,0.1
+ORD-000615,2025-05-15,CUST-00314,Consumer,East,Office Supplies,Pen Set,3,199.37,90,0.1
+ORD-000616,2025-04-11,CUST-00136,Consumer,South,Office Supplies,Desk Organizer,3,760.98,330,0.05
+ORD-000617,2024-07-01,CUST-00310,Small Business,East,Office Supplies,Desk Organizer,3,695.83,330,0.0
+ORD-000618,2024-07-13,CUST-00343,Small Business,North,Technology,Keyboard,5,1588.51,800,0.0
+ORD-000619,2024-02-14,CUST-00321,Corporate,West,Office Supplies,Pen Set,7,224.76,90,0.15
+ORD-000620,2024-04-12,CUST-00366,Corporate,West,Furniture,Study Desk,3,8525.28,6100,0.0
+ORD-000621,2024-11-12,CUST-00139,Small Business,South,Office Supplies,Desk Organizer,4,684.73,330,0.05
+ORD-000622,2024-12-14,CUST-00402,Consumer,East,Technology,Wireless Mouse,3,885.06,430,0.0
+ORD-000623,2024-04-30,CUST-00015,Small Business,West,Technology,Keyboard,6,1453.11,800,0.15
+ORD-000624,2024-10-31,CUST-00282,Consumer,South,Office Supplies,Notebook Pack,2,358.41,170,0.05
+ORD-000625,2025-03-17,CUST-00102,Consumer,North,Technology,Keyboard,6,1385.96,800,0.15
+ORD-000626,2024-06-18,CUST-00001,Consumer,Central,Office Supplies,Desk Organizer,2,632.8,330,0.0
+ORD-000627,2024-09-03,CUST-00457,Corporate,West,Office Supplies,Pen Set,4,218.4,90,0.15
+ORD-000628,2024-09-25,CUST-00493,Consumer,Central,Technology,Wireless Mouse,5,922.92,430,0.0
+ORD-000629,2025-01-03,CUST-00331,Corporate,East,Office Supplies,Notebook Pack,6,351.62,170,0.15
+ORD-000630,2024-09-24,CUST-00156,Consumer,East,Furniture,Study Desk,6,8340.29,6100,0.0
+ORD-000631,2025-06-21,CUST-00405,Small Business,West,Office Supplies,Notebook Pack,6,352.12,170,0.0
+ORD-000632,2024-08-27,CUST-00406,Corporate,Central,Office Supplies,Pen Set,1,222.07,90,0.1
+ORD-000633,2024-11-12,CUST-00237,Small Business,Central,Technology,Monitor,1,11727.3,8500,0.0
+ORD-000634,2024-10-04,CUST-00259,Small Business,East,Technology,Keyboard,3,1548.14,800,0.0
+ORD-000635,2024-05-13,CUST-00433,Consumer,South,Office Supplies,Notebook Pack,7,379.61,170,0.0
+ORD-000636,2025-05-15,CUST-00268,Small Business,Central,Technology,Monitor,2,11133.24,8500,0.15
+ORD-000637,2024-06-20,CUST-00293,Consumer,East,Office Supplies,Desk Organizer,6,635.04,330,0.05
+ORD-000638,2024-08-04,CUST-00172,Consumer,West,Technology,Keyboard,4,1499.31,800,0.0
+ORD-000639,2025-08-01,CUST-00093,Small Business,North,Office Supplies,Notebook Pack,7,357.58,170,0.0
+ORD-000640,2025-11-23,CUST-00105,Small Business,North,Technology,USB Hub,3,1290.18,620,0.0
+ORD-000641,2025-05-04,CUST-00479,Corporate,Central,Technology,Keyboard,3,1564.48,800,0.0
+ORD-000642,2025-10-30,CUST-00494,Consumer,Central,Technology,Monitor,2,11054.41,8500,0.0
+ORD-000643,2025-09-15,CUST-00065,Consumer,West,Office Supplies,Notebook Pack,4,334.17,170,0.0
+ORD-000644,2024-12-17,CUST-00249,Corporate,North,Office Supplies,Notebook Pack,3,345.25,170,0.0
+ORD-000645,2025-07-16,CUST-00073,Small Business,East,Office Supplies,Pen Set,5,206.67,90,0.0
+ORD-000646,2024-08-27,CUST-00028,Corporate,North,Office Supplies,Notebook Pack,7,349.54,170,0.05
+ORD-000647,2024-12-02,CUST-00221,Consumer,East,Office Supplies,Notebook Pack,5,331.4,170,0.0
+ORD-000648,2025-01-25,CUST-00110,Consumer,East,Technology,Wireless Mouse,4,933.38,430,0.15
+ORD-000649,2025-12-02,CUST-00212,Small Business,North,Furniture,Bookshelf,4,6945.95,4800,0.0
+ORD-000650,2025-09-11,CUST-00048,Small Business,East,Technology,Wireless Mouse,5,822.74,430,0.0
+ORD-000651,2024-12-23,CUST-00179,Small Business,Central,Office Supplies,Pen Set,2,208.6,90,0.05
+ORD-000652,2025-04-21,CUST-00248,Small Business,North,Office Supplies,Notebook Pack,1,326.31,170,0.05
+ORD-000653,2024-05-27,CUST-00087,Consumer,Central,Technology,Keyboard,7,1362.9,800,0.05
+ORD-000654,2025-08-10,CUST-00126,Small Business,East,Technology,Monitor,5,11010.57,8500,0.1
+ORD-000655,2025-02-07,CUST-00097,Corporate,South,Furniture,Office Chair,7,7023.08,4200,0.1
+ORD-000656,2025-01-23,CUST-00326,Small Business,West,Technology,USB Hub,4,1195.21,620,0.15
+ORD-000657,2025-07-13,CUST-00178,Small Business,West,Office Supplies,Desk Organizer,2,706.46,330,0.0
+ORD-000658,2025-04-07,CUST-00157,Small Business,Central,Technology,Keyboard,5,1463.65,800,0.1
+ORD-000659,2024-02-22,CUST-00376,Small Business,North,Furniture,Study Desk,4,9764.37,6100,0.05
+ORD-000660,2024-07-29,CUST-00121,Corporate,South,Office Supplies,Notebook Pack,5,340.67,170,0.1
+ORD-000661,2024-05-09,CUST-00334,Consumer,East,Office Supplies,Pen Set,2,217.74,90,0.1
+ORD-000662,2025-06-20,CUST-00147,Consumer,Central,Technology,USB Hub,2,1174.83,620,0.1
+ORD-000663,2024-01-26,CUST-00352,Small Business,North,Office Supplies,Pen Set,6,223.79,90,0.0
+ORD-000664,2024-05-27,CUST-00141,Small Business,West,Technology,USB Hub,5,1298.42,620,0.0
+ORD-000665,2025-03-12,CUST-00323,Corporate,East,Furniture,Study Desk,3,8414.67,6100,0.0
+ORD-000666,2025-05-22,CUST-00324,Corporate,East,Furniture,Study Desk,4,8381.23,6100,0.05
+ORD-000667,2025-01-02,CUST-00137,Consumer,West,Technology,Keyboard,3,1442.9,800,0.05
+ORD-000668,2025-09-20,CUST-00270,Consumer,West,Furniture,Bookshelf,3,6585.47,4800,0.0
+ORD-000669,2025-11-01,CUST-00382,Corporate,Central,Office Supplies,Notebook Pack,6,328.05,170,0.0
+ORD-000670,2024-04-06,CUST-00295,Consumer,West,Technology,Keyboard,2,1556.03,800,0.15
+ORD-000671,2025-11-26,CUST-00329,Corporate,East,Office Supplies,Notebook Pack,5,336.41,170,0.15
+ORD-000672,2025-03-24,CUST-00356,Consumer,West,Furniture,Office Chair,7,7039.92,4200,0.05
+ORD-000673,2025-04-09,CUST-00414,Small Business,West,Technology,Keyboard,5,1500.09,800,0.1
+ORD-000674,2024-03-10,CUST-00295,Corporate,Central,Technology,Keyboard,7,1445.4,800,0.05
+ORD-000675,2025-03-29,CUST-00399,Corporate,Central,Furniture,Bookshelf,4,7034.76,4800,0.15
+ORD-000676,2025-06-13,CUST-00259,Small Business,East,Office Supplies,Notebook Pack,1,370.89,170,0.15
+ORD-000677,2025-02-27,CUST-00313,Consumer,East,Office Supplies,Pen Set,6,220.45,90,0.05
+ORD-000678,2024-03-02,CUST-00252,Consumer,Central,Office Supplies,Notebook Pack,1,364.65,170,0.1
+ORD-000679,2025-01-16,CUST-00264,Small Business,North,Office Supplies,Desk Organizer,1,683.62,330,0.05
+ORD-000680,2025-11-14,CUST-00016,Consumer,West,Office Supplies,Notebook Pack,1,345.46,170,0.0
+ORD-000681,2025-06-12,CUST-00269,Consumer,East,Furniture,Office Chair,4,6466.18,4200,0.05
+ORD-000682,2024-04-10,CUST-00453,Consumer,North,Technology,Wireless Mouse,3,841.66,430,0.0
+ORD-000683,2025-12-01,CUST-00140,Corporate,Central,Office Supplies,Desk Organizer,5,685.49,330,0.05
+ORD-000684,2025-11-30,CUST-00010,Small Business,East,Technology,Wireless Mouse,5,856.2,430,0.05
+ORD-000685,2024-05-03,CUST-00353,Consumer,Central,Furniture,Bookshelf,2,6904.89,4800,0.1
+ORD-000686,2025-08-07,CUST-00306,Corporate,Central,Technology,Monitor,3,12369.57,8500,0.1
+ORD-000687,2024-10-23,CUST-00064,Small Business,West,Technology,Monitor,6,11962.36,8500,0.15
+ORD-000688,2025-03-09,CUST-00052,Small Business,North,Furniture,Bookshelf,5,6580.24,4800,0.05
+ORD-000689,2024-11-20,CUST-00362,Small Business,East,Technology,Wireless Mouse,3,907.1,430,0.0
+ORD-000690,2025-07-25,CUST-00059,Consumer,Central,Furniture,Study Desk,7,8415.01,6100,0.0
+ORD-000691,2025-12-28,CUST-00403,Small Business,North,Furniture,Office Chair,1,6648.76,4200,0.1
+ORD-000692,2025-08-03,CUST-00095,Small Business,North,Furniture,Bookshelf,2,7126.28,4800,0.0
+ORD-000693,2025-11-10,CUST-00178,Consumer,East,Furniture,Bookshelf,2,6643.42,4800,0.05
+ORD-000694,2025-11-21,CUST-00339,Corporate,North,Technology,Wireless Mouse,1,930.9,430,0.05
+ORD-000695,2024-03-06,CUST-00008,Small Business,South,Office Supplies,Notebook Pack,3,325.7,170,0.0
+ORD-000696,2024-07-03,CUST-00301,Small Business,North,Office Supplies,Pen Set,5,222.49,90,0.0
+ORD-000697,2025-06-10,CUST-00017,Corporate,West,Furniture,Bookshelf,5,7593.12,4800,0.0
+ORD-000698,2025-03-06,CUST-00192,Small Business,Central,Office Supplies,Notebook Pack,4,352.59,170,0.05
+ORD-000699,2024-02-06,CUST-00414,Consumer,East,Office Supplies,Pen Set,7,220.39,90,0.1
+ORD-000700,2024-03-10,CUST-00427,Consumer,North,Office Supplies,Notebook Pack,4,328.7,170,0.1
+ORD-000701,2025-01-14,CUST-00075,Consumer,North,Technology,Keyboard,2,1509.23,800,0.1
+ORD-000702,2025-03-25,CUST-00016,Corporate,East,Furniture,Office Chair,6,7093.04,4200,0.0
+ORD-000703,2024-05-02,CUST-00443,Corporate,South,Office Supplies,Pen Set,6,233.95,90,0.05
+ORD-000704,2024-05-05,CUST-00212,Corporate,Central,Furniture,Study Desk,3,9527.54,6100,0.1
+ORD-000705,2024-04-04,CUST-00239,Consumer,Central,Office Supplies,Pen Set,4,235.95,90,0.0
+ORD-000706,2025-02-16,CUST-00202,Small Business,Central,Furniture,Office Chair,4,6225.83,4200,0.1
+ORD-000707,2024-01-06,CUST-00178,Consumer,West,Furniture,Office Chair,7,6018.68,4200,0.1
+ORD-000708,2025-02-21,CUST-00454,Small Business,South,Furniture,Office Chair,7,7142.56,4200,0.05
+ORD-000709,2024-12-13,CUST-00033,Consumer,North,Technology,Wireless Mouse,2,865.28,430,0.1
+ORD-000710,2024-12-06,CUST-00222,Consumer,East,Office Supplies,Desk Organizer,2,704.63,330,0.05
+ORD-000711,2025-05-10,CUST-00357,Consumer,Central,Furniture,Study Desk,2,8730.54,6100,0.0
+ORD-000712,2025-01-16,CUST-00277,Consumer,South,Technology,Wireless Mouse,3,924.8,430,0.05
+ORD-000713,2025-06-15,CUST-00399,Consumer,South,Technology,Monitor,7,12767.37,8500,0.0
+ORD-000714,2025-07-11,CUST-00467,Small Business,West,Office Supplies,Desk Organizer,4,749.51,330,0.0
+ORD-000715,2025-11-02,CUST-00275,Consumer,West,Office Supplies,Pen Set,7,200.59,90,0.0
+ORD-000716,2025-08-06,CUST-00030,Consumer,West,Furniture,Study Desk,3,9612.1,6100,0.15
+ORD-000717,2025-01-12,CUST-00469,Consumer,North,Furniture,Office Chair,5,6466.27,4200,0.1
+ORD-000718,2024-12-25,CUST-00010,Small Business,North,Furniture,Office Chair,2,6514.65,4200,0.1
+ORD-000719,2024-06-21,CUST-00063,Small Business,East,Furniture,Office Chair,1,6154.58,4200,0.1
+ORD-000720,2025-03-13,CUST-00383,Corporate,Central,Office Supplies,Pen Set,7,220.86,90,0.1
+ORD-000721,2024-04-11,CUST-00035,Small Business,West,Office Supplies,Notebook Pack,7,318.64,170,0.1
+ORD-000722,2025-11-10,CUST-00476,Corporate,South,Technology,Monitor,7,11966.78,8500,0.1
+ORD-000723,2025-09-08,CUST-00271,Small Business,West,Furniture,Office Chair,6,7122.45,4200,0.1
+ORD-000724,2024-03-28,CUST-00238,Small Business,East,Office Supplies,Notebook Pack,3,325.26,170,0.0
+ORD-000725,2025-07-27,CUST-00060,Corporate,East,Technology,Keyboard,7,1399.69,800,0.05
+ORD-000726,2024-03-26,CUST-00362,Small Business,North,Technology,Wireless Mouse,3,917.37,430,0.0
+ORD-000727,2025-06-10,CUST-00160,Consumer,South,Furniture,Study Desk,6,8948.89,6100,0.1
+ORD-000728,2024-03-05,CUST-00152,Corporate,North,Office Supplies,Pen Set,4,229.69,90,0.05
+ORD-000729,2024-12-22,CUST-00380,Consumer,East,Office Supplies,Notebook Pack,1,360.74,170,0.0
+ORD-000730,2025-04-25,CUST-00090,Corporate,West,Office Supplies,Desk Organizer,5,651.98,330,0.1
+ORD-000731,2025-06-16,CUST-00373,Corporate,North,Furniture,Bookshelf,6,6873.31,4800,0.05
+ORD-000732,2024-11-01,CUST-00459,Corporate,South,Furniture,Study Desk,4,9675.04,6100,0.0
+ORD-000733,2025-11-03,CUST-00027,Small Business,West,Office Supplies,Desk Organizer,5,651.09,330,0.0
+ORD-000734,2025-07-19,CUST-00267,Small Business,North,Furniture,Bookshelf,7,6483.22,4800,0.05
+ORD-000735,2024-06-01,CUST-00090,Corporate,West,Technology,Keyboard,5,1418.53,800,0.05
+ORD-000736,2025-05-04,CUST-00094,Corporate,North,Technology,Keyboard,4,1421.06,800,0.0
+ORD-000737,2025-06-17,CUST-00451,Small Business,Central,Furniture,Office Chair,6,6333.6,4200,0.05
+ORD-000738,2024-08-31,CUST-00414,Corporate,South,Technology,Monitor,6,11511.33,8500,0.0
+ORD-000739,2025-06-22,CUST-00158,Consumer,Central,Office Supplies,Notebook Pack,2,378.84,170,0.0
+ORD-000740,2025-10-17,CUST-00191,Corporate,East,Furniture,Study Desk,5,9098.5,6100,0.0
+ORD-000741,2025-08-19,CUST-00486,Corporate,West,Technology,USB Hub,4,1238.51,620,0.05
+ORD-000742,2025-07-10,CUST-00075,Small Business,East,Technology,Keyboard,5,1363.48,800,0.1
+ORD-000743,2025-04-08,CUST-00207,Corporate,South,Furniture,Study Desk,5,9844.84,6100,0.0
+ORD-000744,2024-07-16,CUST-00083,Corporate,West,Furniture,Office Chair,5,7139.46,4200,0.0
+ORD-000745,2025-08-03,CUST-00140,Consumer,West,Technology,USB Hub,7,1089.72,620,0.05
+ORD-000746,2024-09-22,CUST-00268,Small Business,South,Technology,Monitor,3,12788.39,8500,0.15
+ORD-000747,2025-01-23,CUST-00318,Small Business,West,Office Supplies,Desk Organizer,7,663.81,330,0.1
+ORD-000748,2024-08-17,CUST-00388,Consumer,North,Office Supplies,Notebook Pack,3,335.19,170,0.05
+ORD-000749,2024-08-16,CUST-00425,Consumer,Central,Furniture,Study Desk,7,8292.98,6100,0.0
+ORD-000750,2024-04-25,CUST-00239,Consumer,East,Technology,Keyboard,7,1606.86,800,0.1
+ORD-000751,2025-12-02,CUST-00228,Small Business,West,Office Supplies,Notebook Pack,5,347.23,170,0.0
+ORD-000752,2024-04-17,CUST-00206,Small Business,North,Office Supplies,Desk Organizer,6,735.88,330,0.0
+ORD-000753,2024-03-03,CUST-00258,Small Business,Central,Furniture,Study Desk,6,8319.63,6100,0.0
+ORD-000754,2025-11-14,CUST-00216,Small Business,South,Technology,Keyboard,5,1578.96,800,0.0
+ORD-000755,2025-02-09,CUST-00207,Small Business,West,Furniture,Office Chair,4,6955.73,4200,0.1
+ORD-000756,2024-11-15,CUST-00362,Small Business,West,Technology,Monitor,1,11362.48,8500,0.05
+ORD-000757,2025-06-22,CUST-00159,Corporate,West,Furniture,Bookshelf,5,7173.33,4800,0.05
+ORD-000758,2024-10-06,CUST-00333,Corporate,Central,Technology,Wireless Mouse,1,789.04,430,0.0
+ORD-000759,2024-04-03,CUST-00015,Corporate,Central,Furniture,Office Chair,2,6491.51,4200,0.0
+ORD-000760,2025-06-16,CUST-00490,Consumer,South,Office Supplies,Notebook Pack,5,365.8,170,0.0
+ORD-000761,2024-05-08,CUST-00341,Consumer,North,Technology,Wireless Mouse,4,879.88,430,0.0
+ORD-000762,2025-02-07,CUST-00385,Corporate,West,Technology,Monitor,7,10858.76,8500,0.1
+ORD-000763,2025-11-23,CUST-00122,Consumer,South,Office Supplies,Pen Set,7,233.8,90,0.0
+ORD-000764,2025-11-14,CUST-00377,Consumer,North,Office Supplies,Desk Organizer,7,707.53,330,0.05
+ORD-000765,2024-09-20,CUST-00438,Small Business,North,Office Supplies,Notebook Pack,1,340.49,170,0.1
+ORD-000766,2025-07-23,CUST-00410,Small Business,North,Furniture,Office Chair,3,6486.0,4200,0.0
+ORD-000767,2025-03-23,CUST-00395,Small Business,Central,Furniture,Bookshelf,5,7893.02,4800,0.05
+ORD-000768,2024-12-15,CUST-00253,Corporate,Central,Office Supplies,Pen Set,1,226.33,90,0.1
+ORD-000769,2024-04-12,CUST-00248,Small Business,West,Furniture,Office Chair,7,6113.54,4200,0.0
+ORD-000770,2024-10-01,CUST-00217,Consumer,North,Technology,USB Hub,7,1159.55,620,0.0
+ORD-000771,2025-04-20,CUST-00461,Corporate,Central,Office Supplies,Desk Organizer,3,721.24,330,0.05
+ORD-000772,2025-12-21,CUST-00428,Small Business,South,Furniture,Office Chair,7,5988.29,4200,0.15
+ORD-000773,2024-01-04,CUST-00152,Consumer,West,Technology,USB Hub,4,1192.08,620,0.0
+ORD-000774,2025-06-07,CUST-00068,Corporate,East,Office Supplies,Notebook Pack,5,346.26,170,0.05
+ORD-000775,2025-09-09,CUST-00469,Small Business,West,Technology,Wireless Mouse,5,917.93,430,0.0
+ORD-000776,2025-11-25,CUST-00424,Small Business,South,Office Supplies,Desk Organizer,2,657.32,330,0.0
+ORD-000777,2024-11-05,CUST-00224,Corporate,South,Office Supplies,Notebook Pack,2,333.99,170,0.05
+ORD-000778,2024-03-27,CUST-00170,Consumer,West,Furniture,Office Chair,6,6078.6,4200,0.0
+ORD-000779,2024-07-16,CUST-00001,Consumer,East,Office Supplies,Notebook Pack,1,317.73,170,0.0
+ORD-000780,2025-09-12,CUST-00459,Consumer,South,Office Supplies,Pen Set,5,211.64,90,0.05
+ORD-000781,2025-10-02,CUST-00401,Corporate,North,Technology,USB Hub,4,1109.87,620,0.0
+ORD-000782,2025-04-10,CUST-00441,Consumer,North,Furniture,Bookshelf,3,7306.99,4800,0.0
+ORD-000783,2024-03-30,CUST-00458,Corporate,East,Technology,Monitor,6,10999.4,8500,0.05
+ORD-000784,2024-03-30,CUST-00405,Small Business,South,Technology,Keyboard,5,1612.47,800,0.0
+ORD-000785,2024-12-15,CUST-00153,Small Business,North,Furniture,Office Chair,4,6215.62,4200,0.05
+ORD-000786,2025-03-05,CUST-00056,Corporate,North,Furniture,Office Chair,1,5950.82,4200,0.1
+ORD-000787,2024-01-24,CUST-00024,Corporate,West,Furniture,Bookshelf,7,7541.5,4800,0.15
+ORD-000788,2025-05-15,CUST-00143,Consumer,East,Technology,Keyboard,1,1606.97,800,0.1
+ORD-000789,2025-02-01,CUST-00123,Corporate,West,Technology,Keyboard,6,1606.36,800,0.0
+ORD-000790,2024-01-09,CUST-00200,Consumer,East,Office Supplies,Pen Set,3,221.1,90,0.1
+ORD-000791,2024-03-10,CUST-00222,Small Business,South,Office Supplies,Pen Set,7,214.44,90,0.0
+ORD-000792,2024-11-27,CUST-00044,Corporate,East,Furniture,Office Chair,6,6067.56,4200,0.0
+ORD-000793,2025-06-11,CUST-00123,Consumer,West,Office Supplies,Pen Set,4,237.65,90,0.05
+ORD-000794,2025-08-25,CUST-00173,Corporate,East,Technology,Wireless Mouse,6,851.12,430,0.0
+ORD-000795,2024-11-10,CUST-00271,Small Business,South,Office Supplies,Desk Organizer,2,715.74,330,0.0
+ORD-000796,2024-08-03,CUST-00402,Consumer,South,Furniture,Study Desk,5,9189.32,6100,0.0
+ORD-000797,2025-12-07,CUST-00458,Consumer,South,Technology,Keyboard,3,1421.0,800,0.15
+ORD-000798,2024-11-30,CUST-00341,Consumer,North,Office Supplies,Pen Set,6,203.77,90,0.05
+ORD-000799,2024-08-18,CUST-00113,Corporate,West,Office Supplies,Notebook Pack,1,335.01,170,0.0
+ORD-000800,2024-11-18,CUST-00222,Corporate,West,Technology,Wireless Mouse,4,912.71,430,0.0
+ORD-000801,2024-01-09,CUST-00265,Consumer,South,Furniture,Office Chair,2,6477.3,4200,0.15
+ORD-000802,2024-08-08,CUST-00208,Corporate,Central,Technology,Monitor,4,10956.52,8500,0.15
+ORD-000803,2025-01-11,CUST-00252,Corporate,Central,Technology,Monitor,7,12017.58,8500,0.0
+ORD-000804,2025-11-01,CUST-00329,Consumer,East,Furniture,Office Chair,4,6128.65,4200,0.1
+ORD-000805,2025-06-22,CUST-00199,Corporate,North,Technology,Monitor,2,11871.79,8500,0.0
+ORD-000806,2025-07-24,CUST-00215,Corporate,North,Furniture,Office Chair,4,6208.37,4200,0.05
+ORD-000807,2025-02-01,CUST-00498,Small Business,Central,Office Supplies,Notebook Pack,5,355.97,170,0.15
+ORD-000808,2024-03-21,CUST-00160,Small Business,West,Furniture,Bookshelf,2,6677.04,4800,0.05
+ORD-000809,2024-10-12,CUST-00009,Small Business,South,Office Supplies,Desk Organizer,6,763.75,330,0.0
+ORD-000810,2025-12-28,CUST-00094,Corporate,East,Technology,Wireless Mouse,7,908.25,430,0.1
+ORD-000811,2024-02-02,CUST-00105,Corporate,North,Office Supplies,Desk Organizer,2,694.77,330,0.1
+ORD-000812,2025-10-03,CUST-00204,Small Business,East,Furniture,Bookshelf,1,7108.19,4800,0.05
+ORD-000813,2025-05-14,CUST-00340,Small Business,East,Technology,Monitor,2,13057.47,8500,0.0
+ORD-000814,2024-07-26,CUST-00118,Small Business,East,Technology,Wireless Mouse,2,856.9,430,0.05
+ORD-000815,2025-07-21,CUST-00138,Corporate,West,Office Supplies,Pen Set,4,228.98,90,0.0
+ORD-000816,2025-09-02,CUST-00090,Small Business,East,Technology,Keyboard,6,1586.04,800,0.15
+ORD-000817,2024-02-01,CUST-00150,Consumer,West,Technology,Monitor,1,12576.35,8500,0.0
+ORD-000818,2024-03-18,CUST-00037,Corporate,North,Furniture,Bookshelf,7,6657.08,4800,0.0
+ORD-000819,2025-04-30,CUST-00213,Corporate,South,Technology,USB Hub,4,1182.98,620,0.0
+ORD-000820,2025-12-30,CUST-00069,Consumer,West,Technology,Keyboard,5,1390.98,800,0.1
+ORD-000821,2024-01-18,CUST-00365,Consumer,Central,Technology,Wireless Mouse,3,786.31,430,0.0
+ORD-000822,2025-04-30,CUST-00232,Small Business,West,Technology,USB Hub,4,1085.58,620,0.0
+ORD-000823,2024-04-09,CUST-00443,Consumer,South,Furniture,Study Desk,1,9495.34,6100,0.05
+ORD-000824,2025-04-19,CUST-00147,Corporate,South,Furniture,Office Chair,5,6425.29,4200,0.05
+ORD-000825,2025-03-31,CUST-00123,Corporate,West,Office Supplies,Desk Organizer,4,711.83,330,0.05
+ORD-000826,2024-03-07,CUST-00111,Corporate,West,Technology,Monitor,6,11730.0,8500,0.0
+ORD-000827,2025-05-11,CUST-00298,Small Business,West,Office Supplies,Notebook Pack,7,338.82,170,0.1
+ORD-000828,2025-10-16,CUST-00055,Consumer,West,Technology,USB Hub,6,1174.52,620,0.15
+ORD-000829,2025-09-22,CUST-00140,Corporate,East,Technology,Wireless Mouse,7,810.68,430,0.05
+ORD-000830,2024-01-22,CUST-00111,Small Business,East,Technology,Keyboard,1,1616.64,800,0.1
+ORD-000831,2024-06-28,CUST-00144,Small Business,North,Furniture,Study Desk,5,9681.09,6100,0.1
+ORD-000832,2024-06-24,CUST-00439,Corporate,North,Furniture,Study Desk,3,9328.48,6100,0.0
+ORD-000833,2024-11-26,CUST-00233,Consumer,South,Furniture,Office Chair,2,7073.53,4200,0.0
+ORD-000834,2024-04-14,CUST-00374,Consumer,West,Technology,USB Hub,3,1300.9,620,0.0
+ORD-000835,2025-09-15,CUST-00081,Small Business,South,Furniture,Study Desk,5,9683.6,6100,0.05
+ORD-000836,2025-07-21,CUST-00108,Corporate,East,Technology,Keyboard,6,1565.0,800,0.0
+ORD-000837,2025-08-13,CUST-00315,Corporate,West,Office Supplies,Pen Set,7,209.04,90,0.05
+ORD-000838,2024-05-24,CUST-00182,Small Business,West,Office Supplies,Notebook Pack,6,359.22,170,0.0
+ORD-000839,2024-01-11,CUST-00027,Consumer,East,Office Supplies,Pen Set,3,241.29,90,0.05
+ORD-000840,2025-10-26,CUST-00297,Corporate,West,Office Supplies,Pen Set,1,226.85,90,0.05
+ORD-000841,2024-07-29,CUST-00371,Corporate,South,Office Supplies,Notebook Pack,2,383.64,170,0.0
+ORD-000842,2025-04-24,CUST-00429,Corporate,South,Furniture,Office Chair,4,6319.17,4200,0.1
+ORD-000843,2025-10-25,CUST-00080,Consumer,East,Technology,Wireless Mouse,5,806.43,430,0.0
+ORD-000844,2024-01-27,CUST-00185,Consumer,South,Office Supplies,Notebook Pack,1,317.18,170,0.05
+ORD-000845,2024-01-04,CUST-00036,Consumer,South,Office Supplies,Desk Organizer,6,752.19,330,0.05
+ORD-000846,2024-01-04,CUST-00233,Corporate,South,Office Supplies,Desk Organizer,1,743.66,330,0.15
+ORD-000847,2024-04-24,CUST-00112,Corporate,South,Technology,USB Hub,6,1118.55,620,0.0
+ORD-000848,2024-02-07,CUST-00316,Corporate,North,Technology,Keyboard,5,1625.82,800,0.0
+ORD-000849,2025-08-21,CUST-00427,Consumer,West,Office Supplies,Notebook Pack,3,339.88,170,0.05
+ORD-000850,2025-03-18,CUST-00085,Small Business,East,Technology,Wireless Mouse,7,825.04,430,0.05
+ORD-000851,2025-12-16,CUST-00331,Consumer,West,Office Supplies,Notebook Pack,4,326.66,170,0.0
+ORD-000852,2025-08-08,CUST-00387,Small Business,West,Office Supplies,Desk Organizer,5,728.26,330,0.0
+ORD-000853,2025-12-04,CUST-00266,Consumer,South,Technology,Wireless Mouse,5,888.46,430,0.0
+ORD-000854,2024-06-23,CUST-00253,Small Business,East,Technology,Keyboard,6,1530.25,800,0.0
+ORD-000855,2024-07-29,CUST-00420,Corporate,Central,Office Supplies,Pen Set,3,225.7,90,0.05
+ORD-000856,2025-09-12,CUST-00218,Corporate,South,Technology,Monitor,6,12220.81,8500,0.0
+ORD-000857,2024-06-27,CUST-00425,Consumer,North,Technology,Wireless Mouse,6,854.22,430,0.05
+ORD-000858,2024-02-11,CUST-00447,Small Business,North,Technology,Wireless Mouse,3,915.37,430,0.1
+ORD-000859,2025-05-03,CUST-00076,Consumer,South,Technology,Wireless Mouse,2,832.65,430,0.0
+ORD-000860,2025-08-07,CUST-00115,Small Business,Central,Technology,USB Hub,5,1118.19,620,0.15
+ORD-000861,2025-12-07,CUST-00211,Corporate,East,Furniture,Office Chair,7,6006.37,4200,0.1
+ORD-000862,2025-11-08,CUST-00275,Small Business,East,Office Supplies,Notebook Pack,1,357.18,170,0.0
+ORD-000863,2024-03-28,CUST-00081,Small Business,South,Office Supplies,Notebook Pack,6,325.14,170,0.15
+ORD-000864,2025-07-17,CUST-00312,Consumer,South,Technology,Monitor,7,11462.99,8500,0.05
+ORD-000865,2025-09-09,CUST-00172,Consumer,East,Office Supplies,Notebook Pack,3,350.4,170,0.15
+ORD-000866,2025-05-24,CUST-00244,Corporate,North,Office Supplies,Notebook Pack,3,339.5,170,0.1
+ORD-000867,2025-08-21,CUST-00291,Corporate,East,Furniture,Office Chair,3,5917.05,4200,0.15
+ORD-000868,2025-09-03,CUST-00392,Small Business,East,Technology,Keyboard,4,1631.21,800,0.0
+ORD-000869,2024-11-21,CUST-00379,Small Business,South,Furniture,Study Desk,1,8755.84,6100,0.15
+ORD-000870,2024-01-30,CUST-00345,Small Business,West,Technology,Monitor,1,12787.02,8500,0.1
+ORD-000871,2024-11-29,CUST-00147,Small Business,North,Technology,Monitor,6,12274.57,8500,0.1
+ORD-000872,2024-05-27,CUST-00083,Small Business,South,Technology,Keyboard,7,1503.0,800,0.1
+ORD-000873,2024-03-24,CUST-00306,Small Business,West,Office Supplies,Notebook Pack,3,380.52,170,0.0
+ORD-000874,2024-04-01,CUST-00301,Small Business,West,Technology,USB Hub,2,1092.91,620,0.05
+ORD-000875,2025-05-24,CUST-00154,Consumer,East,Furniture,Study Desk,4,9097.74,6100,0.05
+ORD-000876,2025-01-03,CUST-00220,Consumer,South,Office Supplies,Notebook Pack,5,379.17,170,0.15
+ORD-000877,2025-01-29,CUST-00088,Corporate,South,Technology,Keyboard,7,1493.33,800,0.1
+ORD-000878,2025-06-27,CUST-00028,Consumer,North,Furniture,Study Desk,4,8509.3,6100,0.1
+ORD-000879,2025-02-04,CUST-00281,Corporate,South,Furniture,Study Desk,1,9772.97,6100,0.0
+ORD-000880,2025-04-04,CUST-00448,Small Business,East,Technology,USB Hub,1,1294.63,620,0.0
+ORD-000881,2024-03-03,CUST-00044,Small Business,East,Technology,Monitor,2,11321.6,8500,0.0
+ORD-000882,2025-09-13,CUST-00163,Corporate,East,Office Supplies,Notebook Pack,3,346.87,170,0.0
+ORD-000883,2024-11-23,CUST-00469,Corporate,North,Furniture,Bookshelf,4,7077.75,4800,0.05
+ORD-000884,2024-04-23,CUST-00183,Consumer,West,Technology,Monitor,4,11097.96,8500,0.0
+ORD-000885,2025-08-16,CUST-00313,Small Business,Central,Office Supplies,Pen Set,6,200.06,90,0.0
+ORD-000886,2025-06-20,CUST-00096,Corporate,North,Furniture,Office Chair,2,6505.47,4200,0.05
+ORD-000887,2024-02-08,CUST-00193,Corporate,North,Office Supplies,Desk Organizer,4,724.34,330,0.0
+ORD-000888,2024-05-20,CUST-00012,Small Business,East,Technology,USB Hub,3,1294.78,620,0.05
+ORD-000889,2024-01-12,CUST-00341,Small Business,North,Furniture,Study Desk,2,9314.87,6100,0.1
+ORD-000890,2024-07-16,CUST-00222,Consumer,South,Technology,USB Hub,5,1260.79,620,0.05
+ORD-000891,2024-03-13,CUST-00086,Small Business,North,Furniture,Office Chair,5,6446.93,4200,0.0
+ORD-000892,2025-06-02,CUST-00026,Corporate,Central,Office Supplies,Notebook Pack,7,320.11,170,0.0
+ORD-000893,2025-01-16,CUST-00123,Consumer,Central,Furniture,Study Desk,7,9739.77,6100,0.0
+ORD-000894,2025-12-16,CUST-00188,Corporate,North,Office Supplies,Desk Organizer,2,671.0,330,0.0
+ORD-000895,2025-07-01,CUST-00280,Small Business,North,Office Supplies,Notebook Pack,3,322.21,170,0.05
+ORD-000896,2025-03-22,CUST-00069,Consumer,North,Furniture,Study Desk,7,8447.35,6100,0.0
+ORD-000897,2025-01-06,CUST-00457,Consumer,East,Furniture,Bookshelf,1,7063.24,4800,0.1
+ORD-000898,2024-02-09,CUST-00092,Corporate,North,Office Supplies,Desk Organizer,6,691.27,330,0.05
+ORD-000899,2024-02-21,CUST-00147,Consumer,South,Technology,Wireless Mouse,7,809.42,430,0.05
+ORD-000900,2025-03-25,CUST-00255,Corporate,South,Furniture,Study Desk,1,8285.29,6100,0.1
+ORD-000901,2024-01-04,CUST-00032,Corporate,South,Technology,Keyboard,5,1591.21,800,0.1
+ORD-000902,2024-01-31,CUST-00301,Corporate,East,Office Supplies,Pen Set,7,216.77,90,0.0
+ORD-000903,2024-06-08,CUST-00292,Corporate,North,Furniture,Study Desk,3,9694.19,6100,0.0
+ORD-000904,2025-10-07,CUST-00164,Small Business,Central,Technology,Wireless Mouse,6,920.88,430,0.05
+ORD-000905,2024-12-01,CUST-00437,Corporate,Central,Office Supplies,Pen Set,5,235.83,90,0.0
+ORD-000906,2025-06-01,CUST-00289,Small Business,West,Furniture,Bookshelf,7,6736.01,4800,0.1
+ORD-000907,2024-10-27,CUST-00152,Small Business,Central,Furniture,Bookshelf,3,7024.86,4800,0.0
+ORD-000908,2024-05-06,CUST-00392,Corporate,East,Furniture,Office Chair,2,6249.27,4200,0.05
+ORD-000909,2024-09-27,CUST-00224,Corporate,Central,Furniture,Office Chair,5,6718.62,4200,0.1
+ORD-000910,2024-03-07,CUST-00495,Corporate,South,Furniture,Study Desk,2,8572.12,6100,0.0
+ORD-000911,2025-07-16,CUST-00307,Small Business,West,Furniture,Study Desk,1,8703.8,6100,0.0
+ORD-000912,2024-05-13,CUST-00499,Corporate,South,Office Supplies,Desk Organizer,1,655.75,330,0.0
+ORD-000913,2024-10-01,CUST-00126,Small Business,South,Office Supplies,Desk Organizer,7,719.35,330,0.0
+ORD-000914,2025-12-16,CUST-00020,Consumer,Central,Technology,Keyboard,4,1472.07,800,0.0
+ORD-000915,2025-03-08,CUST-00317,Small Business,Central,Office Supplies,Notebook Pack,6,317.88,170,0.0
+ORD-000916,2024-11-30,CUST-00301,Consumer,Central,Office Supplies,Notebook Pack,7,345.64,170,0.0
+ORD-000917,2025-01-31,CUST-00371,Consumer,South,Office Supplies,Pen Set,2,205.08,90,0.0
+ORD-000918,2025-07-26,CUST-00347,Small Business,West,Technology,USB Hub,3,1279.06,620,0.0
+ORD-000919,2024-07-04,CUST-00022,Corporate,Central,Furniture,Study Desk,5,9148.37,6100,0.0
+ORD-000920,2025-04-09,CUST-00361,Small Business,West,Office Supplies,Notebook Pack,5,361.63,170,0.0
+ORD-000921,2025-09-29,CUST-00376,Corporate,West,Office Supplies,Pen Set,3,226.64,90,0.15
+ORD-000922,2025-02-21,CUST-00298,Consumer,East,Technology,USB Hub,5,1167.3,620,0.1
+ORD-000923,2024-11-21,CUST-00039,Small Business,North,Office Supplies,Desk Organizer,1,756.03,330,0.1
+ORD-000924,2024-04-15,CUST-00214,Corporate,West,Office Supplies,Pen Set,2,234.44,90,0.0
+ORD-000925,2024-06-30,CUST-00498,Small Business,North,Office Supplies,Notebook Pack,4,356.81,170,0.05
+ORD-000926,2025-11-21,CUST-00128,Small Business,West,Office Supplies,Pen Set,3,207.52,90,0.1
+ORD-000927,2025-01-30,CUST-00348,Small Business,West,Technology,Wireless Mouse,6,797.12,430,0.0
+ORD-000928,2024-08-07,CUST-00043,Consumer,North,Technology,USB Hub,5,1189.33,620,0.15
+ORD-000929,2024-11-01,CUST-00194,Small Business,Central,Technology,Monitor,4,11912.91,8500,0.0
+ORD-000930,2025-02-25,CUST-00156,Consumer,South,Office Supplies,Desk Organizer,3,726.3,330,0.0
+ORD-000931,2025-01-27,CUST-00101,Corporate,South,Office Supplies,Pen Set,2,204.45,90,0.05
+ORD-000932,2025-05-25,CUST-00177,Consumer,North,Office Supplies,Pen Set,4,207.97,90,0.1
+ORD-000933,2024-07-06,CUST-00387,Small Business,South,Furniture,Office Chair,1,6095.35,4200,0.1
+ORD-000934,2025-04-18,CUST-00016,Consumer,Central,Technology,Keyboard,3,1394.33,800,0.0
+ORD-000935,2024-11-19,CUST-00245,Small Business,West,Furniture,Study Desk,7,8110.96,6100,0.15
+ORD-000936,2025-11-17,CUST-00475,Consumer,Central,Technology,Monitor,7,13026.81,8500,0.05
+ORD-000937,2024-04-25,CUST-00222,Small Business,West,Technology,Keyboard,1,1478.08,800,0.1
+ORD-000938,2024-04-18,CUST-00415,Corporate,South,Technology,Wireless Mouse,4,925.47,430,0.0
+ORD-000939,2024-12-03,CUST-00406,Consumer,Central,Technology,Wireless Mouse,3,890.59,430,0.15
+ORD-000940,2025-01-06,CUST-00413,Corporate,South,Office Supplies,Notebook Pack,2,352.62,170,0.0
+ORD-000941,2025-05-19,CUST-00287,Corporate,West,Technology,Wireless Mouse,1,794.67,430,0.15
+ORD-000942,2024-10-21,CUST-00089,Consumer,West,Office Supplies,Desk Organizer,2,656.87,330,0.0
+ORD-000943,2025-10-29,CUST-00056,Consumer,North,Office Supplies,Pen Set,5,230.56,90,0.0
+ORD-000944,2024-12-12,CUST-00398,Corporate,North,Technology,USB Hub,2,1204.41,620,0.0
+ORD-000945,2024-04-04,CUST-00032,Corporate,Central,Office Supplies,Desk Organizer,5,659.08,330,0.05
+ORD-000946,2024-03-28,CUST-00105,Consumer,East,Technology,Wireless Mouse,7,862.43,430,0.15
+ORD-000947,2025-12-11,CUST-00001,Corporate,South,Furniture,Office Chair,1,6326.0,4200,0.1
+ORD-000948,2024-04-07,CUST-00440,Small Business,North,Technology,USB Hub,6,1178.91,620,0.1
+ORD-000949,2025-11-22,CUST-00331,Small Business,South,Office Supplies,Notebook Pack,7,337.64,170,0.1
+ORD-000950,2024-07-21,CUST-00482,Consumer,South,Office Supplies,Notebook Pack,7,316.65,170,0.0
+ORD-000951,2024-03-09,CUST-00253,Corporate,North,Furniture,Office Chair,5,6663.86,4200,0.1
+ORD-000952,2024-08-10,CUST-00085,Corporate,East,Office Supplies,Desk Organizer,1,740.04,330,0.05
+ORD-000953,2025-03-24,CUST-00269,Consumer,East,Office Supplies,Notebook Pack,5,337.9,170,0.0
+ORD-000954,2024-11-08,CUST-00088,Corporate,North,Technology,USB Hub,5,1114.94,620,0.05
+ORD-000955,2025-07-27,CUST-00125,Consumer,East,Office Supplies,Desk Organizer,3,724.29,330,0.0
+ORD-000956,2025-03-22,CUST-00153,Consumer,North,Furniture,Bookshelf,7,7854.58,4800,0.1
+ORD-000957,2024-10-19,CUST-00420,Small Business,East,Furniture,Study Desk,4,8724.15,6100,0.1
+ORD-000958,2025-04-08,CUST-00149,Consumer,West,Office Supplies,Pen Set,4,214.25,90,0.0
+ORD-000959,2025-12-10,CUST-00275,Consumer,East,Technology,USB Hub,5,1223.97,620,0.05
+ORD-000960,2024-10-27,CUST-00485,Small Business,West,Office Supplies,Notebook Pack,1,361.96,170,0.05
+ORD-000961,2024-04-22,CUST-00033,Consumer,South,Furniture,Office Chair,7,6078.93,4200,0.05
+ORD-000962,2024-10-25,CUST-00152,Corporate,South,Technology,USB Hub,7,1240.89,620,0.0
+ORD-000963,2025-09-05,CUST-00182,Corporate,North,Technology,USB Hub,2,1121.92,620,0.15
+ORD-000964,2024-06-07,CUST-00331,Small Business,North,Furniture,Office Chair,5,6102.33,4200,0.1
+ORD-000965,2025-11-23,CUST-00010,Small Business,East,Technology,Wireless Mouse,6,911.66,430,0.0
+ORD-000966,2025-03-05,CUST-00491,Corporate,West,Technology,Wireless Mouse,1,909.62,430,0.1
+ORD-000967,2025-03-15,CUST-00192,Corporate,South,Office Supplies,Pen Set,4,229.55,90,0.1
+ORD-000968,2024-08-19,CUST-00284,Consumer,South,Office Supplies,Pen Set,2,219.54,90,0.05
+ORD-000969,2025-11-02,CUST-00395,Consumer,East,Office Supplies,Desk Organizer,5,631.32,330,0.05
+ORD-000970,2024-01-27,CUST-00457,Consumer,East,Technology,Monitor,5,12178.72,8500,0.05
+ORD-000971,2024-08-06,CUST-00034,Consumer,Central,Furniture,Study Desk,3,9738.74,6100,0.05
+ORD-000972,2024-11-01,CUST-00029,Corporate,East,Office Supplies,Desk Organizer,1,690.08,330,0.1
+ORD-000973,2024-12-14,CUST-00355,Small Business,South,Office Supplies,Notebook Pack,4,360.62,170,0.05
+ORD-000974,2024-12-12,CUST-00220,Consumer,Central,Furniture,Office Chair,2,6637.27,4200,0.0
+ORD-000975,2024-04-17,CUST-00156,Corporate,West,Office Supplies,Desk Organizer,2,716.04,330,0.0
+ORD-000976,2024-06-13,CUST-00367,Corporate,West,Furniture,Study Desk,3,8206.16,6100,0.0
+ORD-000977,2024-03-10,CUST-00090,Small Business,East,Technology,Keyboard,6,1371.34,800,0.0
+ORD-000978,2025-02-21,CUST-00132,Consumer,West,Office Supplies,Pen Set,4,200.12,90,0.05
+ORD-000979,2024-09-13,CUST-00398,Corporate,West,Technology,Keyboard,1,1462.67,800,0.05
+ORD-000980,2025-02-17,CUST-00290,Small Business,North,Furniture,Office Chair,6,6414.99,4200,0.0
+ORD-000981,2025-03-06,CUST-00223,Small Business,East,Furniture,Bookshelf,1,6998.95,4800,0.0
+ORD-000982,2025-05-27,CUST-00456,Small Business,West,Furniture,Office Chair,5,6023.24,4200,0.1
+ORD-000983,2025-02-03,CUST-00008,Consumer,East,Furniture,Study Desk,4,8334.08,6100,0.0
+ORD-000984,2025-04-18,CUST-00129,Corporate,Central,Furniture,Bookshelf,7,7426.32,4800,0.1
+ORD-000985,2025-03-04,CUST-00434,Small Business,South,Furniture,Study Desk,5,9088.45,6100,0.05
+ORD-000986,2025-04-21,CUST-00083,Small Business,East,Office Supplies,Pen Set,5,231.19,90,0.0
+ORD-000987,2025-03-26,CUST-00187,Small Business,North,Furniture,Bookshelf,4,7321.03,4800,0.0
+ORD-000988,2024-08-18,CUST-00035,Corporate,North,Furniture,Office Chair,6,6850.13,4200,0.1
+ORD-000989,2024-06-28,CUST-00053,Consumer,East,Technology,Monitor,1,12853.45,8500,0.1
+ORD-000990,2025-07-28,CUST-00062,Corporate,Central,Technology,Keyboard,2,1606.23,800,0.0
+ORD-000991,2024-09-07,CUST-00049,Small Business,North,Office Supplies,Pen Set,1,231.38,90,0.05
+ORD-000992,2025-02-04,CUST-00452,Corporate,Central,Technology,Keyboard,6,1367.29,800,0.05
+ORD-000993,2024-05-23,CUST-00275,Consumer,Central,Office Supplies,Pen Set,7,228.19,90,0.0
+ORD-000994,2024-11-10,CUST-00413,Consumer,Central,Office Supplies,Notebook Pack,4,321.88,170,0.0
+ORD-000995,2025-01-21,CUST-00033,Consumer,North,Furniture,Bookshelf,3,7759.9,4800,0.1
+ORD-000996,2025-04-01,CUST-00325,Small Business,South,Furniture,Bookshelf,6,7785.09,4800,0.0
+ORD-000997,2025-01-19,CUST-00443,Consumer,West,Technology,Keyboard,5,1618.7,800,0.0
+ORD-000998,2024-09-20,CUST-00306,Small Business,West,Office Supplies,Pen Set,7,238.22,90,0.0
+ORD-000999,2025-12-03,CUST-00320,Small Business,West,Technology,Monitor,1,12952.66,8500,0.05
+ORD-001000,2025-01-09,CUST-00092,Small Business,Central,Office Supplies,Notebook Pack,1,382.81,170,0.15
+ORD-001001,2025-08-13,CUST-00191,Consumer,West,Technology,Wireless Mouse,6,892.99,430,0.0
+ORD-001002,2025-06-21,CUST-00072,Small Business,East,Technology,Monitor,2,11375.25,8500,0.0
+ORD-001003,2025-02-11,CUST-00455,Corporate,West,Furniture,Office Chair,2,7061.37,4200,0.05
+ORD-001004,2025-10-09,CUST-00179,Small Business,West,Furniture,Study Desk,7,8732.81,6100,0.1
+ORD-001005,2024-04-03,CUST-00438,Small Business,South,Furniture,Bookshelf,2,7238.91,4800,0.0
+ORD-001006,2025-11-03,CUST-00354,Small Business,East,Office Supplies,Notebook Pack,5,365.67,170,0.0
+ORD-001007,2025-09-12,CUST-00497,Consumer,East,Office Supplies,Pen Set,7,236.11,90,0.0
+ORD-001008,2025-01-02,CUST-00439,Small Business,Central,Technology,Monitor,6,12748.26,8500,0.05
+ORD-001009,2025-06-19,CUST-00345,Corporate,North,Furniture,Bookshelf,1,6644.43,4800,0.1
+ORD-001010,2025-01-14,CUST-00260,Corporate,Central,Technology,Monitor,5,12383.02,8500,0.0
+ORD-001011,2024-07-15,CUST-00303,Small Business,West,Furniture,Study Desk,6,9115.84,6100,0.05
+ORD-001012,2025-08-06,CUST-00352,Small Business,Central,Office Supplies,Pen Set,7,200.75,90,0.1
+ORD-001013,2024-06-28,CUST-00038,Corporate,West,Furniture,Study Desk,6,9389.77,6100,0.05
+ORD-001014,2024-08-17,CUST-00150,Corporate,South,Office Supplies,Pen Set,2,213.43,90,0.0
+ORD-001015,2025-01-14,CUST-00422,Corporate,West,Office Supplies,Pen Set,3,205.66,90,0.0
+ORD-001016,2025-09-03,CUST-00343,Small Business,South,Office Supplies,Notebook Pack,4,351.78,170,0.1
+ORD-001017,2024-10-07,CUST-00149,Small Business,South,Office Supplies,Pen Set,7,226.75,90,0.05
+ORD-001018,2024-12-26,CUST-00437,Small Business,East,Technology,Wireless Mouse,7,845.47,430,0.0
+ORD-001019,2024-01-31,CUST-00167,Corporate,South,Technology,Keyboard,7,1520.22,800,0.05
+ORD-001020,2024-03-25,CUST-00470,Small Business,South,Technology,USB Hub,5,1104.03,620,0.1
+ORD-001021,2024-02-10,CUST-00431,Consumer,North,Furniture,Bookshelf,6,6841.82,4800,0.0
+ORD-001022,2024-02-22,CUST-00291,Corporate,East,Office Supplies,Pen Set,6,222.4,90,0.0
+ORD-001023,2025-09-26,CUST-00016,Consumer,West,Office Supplies,Desk Organizer,4,732.82,330,0.05
+ORD-001024,2025-09-06,CUST-00413,Corporate,West,Office Supplies,Notebook Pack,3,323.98,170,0.0
+ORD-001025,2025-08-22,CUST-00145,Corporate,North,Office Supplies,Desk Organizer,4,651.7,330,0.0
+ORD-001026,2024-02-10,CUST-00304,Corporate,North,Technology,Keyboard,4,1563.75,800,0.0
+ORD-001027,2024-02-26,CUST-00112,Corporate,West,Technology,Keyboard,2,1637.94,800,0.05
+ORD-001028,2024-07-23,CUST-00131,Corporate,North,Office Supplies,Notebook Pack,3,373.99,170,0.0
+ORD-001029,2025-02-16,CUST-00294,Consumer,East,Technology,USB Hub,6,1283.36,620,0.0
+ORD-001030,2024-08-31,CUST-00059,Consumer,Central,Furniture,Bookshelf,3,7242.01,4800,0.0
+ORD-001031,2024-12-21,CUST-00014,Small Business,North,Technology,USB Hub,4,1271.48,620,0.05
+ORD-001032,2024-05-06,CUST-00318,Consumer,West,Technology,USB Hub,4,1150.14,620,0.0
+ORD-001033,2025-06-17,CUST-00053,Corporate,East,Furniture,Bookshelf,4,6872.5,4800,0.0
+ORD-001034,2024-08-17,CUST-00399,Small Business,West,Office Supplies,Desk Organizer,5,751.63,330,0.0
+ORD-001035,2024-02-18,CUST-00005,Consumer,West,Office Supplies,Desk Organizer,5,672.33,330,0.05
+ORD-001036,2025-06-26,CUST-00409,Small Business,Central,Office Supplies,Notebook Pack,4,376.42,170,0.0
+ORD-001037,2025-10-21,CUST-00124,Small Business,South,Technology,USB Hub,5,1139.84,620,0.0
+ORD-001038,2024-01-11,CUST-00120,Corporate,South,Technology,Monitor,1,12373.46,8500,0.1
+ORD-001039,2024-11-14,CUST-00297,Small Business,North,Technology,Monitor,5,12758.68,8500,0.0
+ORD-001040,2025-08-26,CUST-00029,Corporate,West,Office Supplies,Notebook Pack,2,340.79,170,0.05
+ORD-001041,2025-05-30,CUST-00228,Corporate,East,Furniture,Study Desk,2,8182.05,6100,0.0
+ORD-001042,2025-09-17,CUST-00273,Consumer,North,Technology,Monitor,6,12403.33,8500,0.0
+ORD-001043,2024-10-30,CUST-00078,Small Business,East,Furniture,Office Chair,1,6253.52,4200,0.05
+ORD-001044,2024-09-28,CUST-00386,Consumer,South,Technology,Wireless Mouse,1,870.55,430,0.1
+ORD-001045,2025-06-01,CUST-00024,Small Business,East,Technology,Keyboard,3,1648.62,800,0.15
+ORD-001046,2024-04-22,CUST-00378,Corporate,South,Furniture,Office Chair,5,6058.35,4200,0.05
+ORD-001047,2024-06-23,CUST-00270,Consumer,Central,Furniture,Study Desk,1,8705.78,6100,0.05
+ORD-001048,2025-03-14,CUST-00022,Corporate,South,Furniture,Study Desk,4,9810.06,6100,0.05
+ORD-001049,2025-05-02,CUST-00344,Small Business,Central,Office Supplies,Notebook Pack,4,378.56,170,0.05
+ORD-001050,2024-03-28,CUST-00290,Small Business,Central,Technology,Keyboard,6,1608.37,800,0.1
+ORD-001051,2025-01-06,CUST-00060,Corporate,East,Office Supplies,Desk Organizer,1,651.9,330,0.0
+ORD-001052,2024-09-23,CUST-00328,Small Business,Central,Technology,Keyboard,5,1584.85,800,0.1
+ORD-001053,2025-01-01,CUST-00351,Small Business,North,Office Supplies,Pen Set,7,225.55,90,0.0
+ORD-001054,2025-11-30,CUST-00079,Corporate,Central,Furniture,Office Chair,7,6817.0,4200,0.15
+ORD-001055,2024-02-25,CUST-00446,Small Business,North,Office Supplies,Pen Set,4,236.65,90,0.1
+ORD-001056,2025-12-27,CUST-00076,Small Business,North,Technology,USB Hub,6,1301.71,620,0.0
+ORD-001057,2024-11-24,CUST-00228,Consumer,North,Office Supplies,Desk Organizer,1,632.89,330,0.15
+ORD-001058,2025-07-17,CUST-00456,Consumer,South,Office Supplies,Pen Set,4,207.68,90,0.0
+ORD-001059,2024-11-05,CUST-00003,Small Business,West,Office Supplies,Desk Organizer,6,769.53,330,0.05
+ORD-001060,2024-08-15,CUST-00196,Corporate,North,Office Supplies,Desk Organizer,6,667.26,330,0.05
+ORD-001061,2025-07-16,CUST-00272,Consumer,Central,Furniture,Study Desk,2,8505.44,6100,0.0
+ORD-001062,2025-05-16,CUST-00067,Corporate,East,Office Supplies,Notebook Pack,7,371.57,170,0.1
+ORD-001063,2024-04-15,CUST-00202,Consumer,North,Furniture,Study Desk,7,8822.55,6100,0.0
+ORD-001064,2025-05-29,CUST-00243,Small Business,South,Furniture,Bookshelf,3,6895.87,4800,0.0
+ORD-001065,2025-07-03,CUST-00026,Corporate,North,Office Supplies,Pen Set,1,206.05,90,0.1
+ORD-001066,2024-10-10,CUST-00313,Corporate,South,Technology,Monitor,5,10964.83,8500,0.1
+ORD-001067,2025-11-06,CUST-00017,Consumer,East,Technology,Wireless Mouse,2,779.16,430,0.0
+ORD-001068,2025-04-12,CUST-00246,Consumer,South,Furniture,Bookshelf,4,6982.02,4800,0.1
+ORD-001069,2024-08-31,CUST-00059,Consumer,West,Furniture,Office Chair,1,6639.06,4200,0.15
+ORD-001070,2024-01-08,CUST-00033,Consumer,East,Furniture,Study Desk,4,9249.02,6100,0.0
+ORD-001071,2025-05-07,CUST-00099,Corporate,Central,Office Supplies,Desk Organizer,6,746.92,330,0.0
+ORD-001072,2024-06-01,CUST-00489,Consumer,North,Furniture,Bookshelf,2,7009.51,4800,0.05
+ORD-001073,2025-07-06,CUST-00191,Corporate,South,Office Supplies,Notebook Pack,4,381.64,170,0.0
+ORD-001074,2025-01-18,CUST-00193,Small Business,North,Technology,USB Hub,4,1287.16,620,0.0
+ORD-001075,2024-12-06,CUST-00182,Consumer,West,Technology,Wireless Mouse,4,823.09,430,0.0
+ORD-001076,2024-04-29,CUST-00123,Small Business,North,Technology,Keyboard,4,1510.44,800,0.0
+ORD-001077,2025-06-03,CUST-00320,Consumer,West,Technology,Keyboard,3,1429.04,800,0.0
+ORD-001078,2024-05-01,CUST-00478,Corporate,North,Furniture,Office Chair,2,6088.13,4200,0.0
+ORD-001079,2024-10-31,CUST-00079,Small Business,North,Furniture,Office Chair,6,6682.22,4200,0.05
+ORD-001080,2025-09-02,CUST-00386,Small Business,South,Furniture,Study Desk,3,9753.16,6100,0.1
+ORD-001081,2025-11-02,CUST-00360,Consumer,South,Furniture,Bookshelf,3,6887.57,4800,0.0
+ORD-001082,2025-12-23,CUST-00226,Corporate,North,Technology,Wireless Mouse,4,765.67,430,0.15
+ORD-001083,2025-11-30,CUST-00281,Small Business,South,Technology,Monitor,1,12169.29,8500,0.1
+ORD-001084,2025-02-09,CUST-00301,Small Business,East,Furniture,Study Desk,5,8722.25,6100,0.05
+ORD-001085,2024-05-26,CUST-00212,Corporate,South,Office Supplies,Pen Set,3,216.84,90,0.0
+ORD-001086,2025-09-04,CUST-00353,Corporate,South,Technology,USB Hub,4,1169.16,620,0.0
+ORD-001087,2025-08-08,CUST-00264,Corporate,Central,Technology,Wireless Mouse,7,877.3,430,0.0
+ORD-001088,2025-12-23,CUST-00360,Consumer,South,Technology,Monitor,1,12294.9,8500,0.05
+ORD-001089,2025-04-20,CUST-00068,Small Business,North,Technology,USB Hub,2,1196.63,620,0.0
+ORD-001090,2024-04-13,CUST-00394,Corporate,North,Technology,Keyboard,4,1487.98,800,0.15
+ORD-001091,2025-01-02,CUST-00249,Consumer,East,Technology,Monitor,3,11246.41,8500,0.0
+ORD-001092,2024-11-23,CUST-00198,Consumer,South,Furniture,Bookshelf,3,6525.2,4800,0.1
+ORD-001093,2025-09-07,CUST-00375,Corporate,South,Office Supplies,Notebook Pack,4,356.91,170,0.0
+ORD-001094,2024-10-13,CUST-00267,Corporate,West,Technology,Wireless Mouse,5,798.23,430,0.0
+ORD-001095,2024-08-27,CUST-00108,Consumer,East,Office Supplies,Desk Organizer,7,650.43,330,0.05
+ORD-001096,2024-02-28,CUST-00243,Consumer,South,Office Supplies,Notebook Pack,6,346.66,170,0.0
+ORD-001097,2025-09-01,CUST-00245,Small Business,Central,Office Supplies,Pen Set,7,207.93,90,0.0
+ORD-001098,2025-07-05,CUST-00210,Small Business,West,Technology,Wireless Mouse,5,907.49,430,0.05
+ORD-001099,2024-01-31,CUST-00089,Corporate,North,Furniture,Study Desk,1,9525.04,6100,0.0
+ORD-001100,2024-11-12,CUST-00468,Corporate,Central,Office Supplies,Notebook Pack,2,358.14,170,0.0
+ORD-001101,2024-12-16,CUST-00103,Corporate,East,Technology,USB Hub,2,1165.68,620,0.15
+ORD-001102,2024-12-08,CUST-00325,Small Business,North,Office Supplies,Pen Set,7,219.22,90,0.0
+ORD-001103,2025-11-01,CUST-00070,Corporate,North,Technology,USB Hub,4,1249.06,620,0.05
+ORD-001104,2024-04-19,CUST-00038,Consumer,Central,Office Supplies,Pen Set,2,199.64,90,0.0
+ORD-001105,2024-08-11,CUST-00111,Corporate,East,Furniture,Study Desk,1,8146.47,6100,0.0
+ORD-001106,2024-05-12,CUST-00105,Corporate,West,Office Supplies,Pen Set,5,231.0,90,0.0
+ORD-001107,2024-06-27,CUST-00134,Small Business,South,Office Supplies,Pen Set,5,201.81,90,0.1
+ORD-001108,2025-10-24,CUST-00252,Consumer,Central,Technology,Monitor,6,11602.81,8500,0.1
+ORD-001109,2025-11-17,CUST-00464,Small Business,Central,Office Supplies,Pen Set,7,241.61,90,0.0
+ORD-001110,2024-02-02,CUST-00402,Small Business,West,Technology,USB Hub,3,1146.93,620,0.15
+ORD-001111,2025-04-06,CUST-00250,Small Business,East,Furniture,Office Chair,7,6060.38,4200,0.1
+ORD-001112,2024-06-18,CUST-00346,Corporate,Central,Furniture,Office Chair,1,6304.22,4200,0.1
+ORD-001113,2024-05-20,CUST-00423,Consumer,Central,Furniture,Office Chair,3,6048.5,4200,0.05
+ORD-001114,2024-08-01,CUST-00266,Corporate,West,Technology,Monitor,1,11972.98,8500,0.05
+ORD-001115,2024-05-21,CUST-00189,Small Business,Central,Furniture,Office Chair,2,5992.87,4200,0.05
+ORD-001116,2024-12-23,CUST-00423,Small Business,East,Office Supplies,Notebook Pack,6,343.21,170,0.0
+ORD-001117,2025-12-27,CUST-00478,Consumer,East,Office Supplies,Desk Organizer,1,695.73,330,0.1
+ORD-001118,2025-03-04,CUST-00214,Corporate,South,Furniture,Study Desk,2,8371.66,6100,0.1
+ORD-001119,2025-06-11,CUST-00452,Consumer,Central,Office Supplies,Pen Set,7,217.88,90,0.0
+ORD-001120,2024-12-26,CUST-00477,Corporate,West,Furniture,Study Desk,7,8990.73,6100,0.05
+ORD-001121,2024-01-11,CUST-00459,Consumer,West,Furniture,Bookshelf,5,7103.79,4800,0.0
+ORD-001122,2024-03-02,CUST-00164,Corporate,Central,Furniture,Study Desk,3,9014.34,6100,0.05
+ORD-001123,2024-07-15,CUST-00320,Small Business,East,Office Supplies,Desk Organizer,1,648.07,330,0.1
+ORD-001124,2024-06-26,CUST-00216,Consumer,South,Furniture,Study Desk,5,9096.12,6100,0.1
+ORD-001125,2025-09-05,CUST-00026,Consumer,Central,Office Supplies,Pen Set,2,228.97,90,0.0
+ORD-001126,2025-09-07,CUST-00148,Small Business,Central,Office Supplies,Notebook Pack,3,335.4,170,0.05
+ORD-001127,2025-09-15,CUST-00436,Corporate,West,Office Supplies,Pen Set,1,231.14,90,0.0
+ORD-001128,2025-04-10,CUST-00138,Consumer,North,Technology,USB Hub,4,1314.3,620,0.0
+ORD-001129,2025-02-10,CUST-00313,Small Business,South,Office Supplies,Notebook Pack,4,324.33,170,0.05
+ORD-001130,2025-04-18,CUST-00396,Corporate,North,Technology,USB Hub,4,1213.65,620,0.1
+ORD-001131,2024-10-23,CUST-00104,Consumer,North,Furniture,Office Chair,3,6532.02,4200,0.0
+ORD-001132,2025-05-04,CUST-00481,Consumer,South,Technology,Monitor,5,12357.83,8500,0.0
+ORD-001133,2025-08-02,CUST-00379,Corporate,East,Office Supplies,Notebook Pack,3,381.28,170,0.05
+ORD-001134,2025-07-10,CUST-00225,Consumer,South,Furniture,Office Chair,1,6991.44,4200,0.05
+ORD-001135,2025-03-24,CUST-00264,Small Business,West,Technology,Keyboard,5,1584.86,800,0.0
+ORD-001136,2024-02-12,CUST-00058,Consumer,South,Furniture,Office Chair,2,6456.72,4200,0.0
+ORD-001137,2025-06-13,CUST-00221,Consumer,North,Furniture,Study Desk,5,9749.99,6100,0.05
+ORD-001138,2024-09-24,CUST-00253,Small Business,South,Office Supplies,Desk Organizer,1,749.61,330,0.05
+ORD-001139,2025-06-26,CUST-00455,Corporate,Central,Furniture,Study Desk,5,9563.04,6100,0.0
+ORD-001140,2025-01-28,CUST-00345,Corporate,East,Technology,Wireless Mouse,2,881.23,430,0.1
+ORD-001141,2025-10-05,CUST-00143,Small Business,East,Technology,Keyboard,1,1432.06,800,0.05
+ORD-001142,2024-09-04,CUST-00236,Consumer,West,Furniture,Bookshelf,6,7215.03,4800,0.1
+ORD-001143,2025-11-10,CUST-00369,Consumer,West,Furniture,Office Chair,2,6196.59,4200,0.05
+ORD-001144,2025-09-08,CUST-00125,Small Business,West,Office Supplies,Pen Set,3,239.97,90,0.1
+ORD-001145,2024-08-29,CUST-00303,Small Business,Central,Furniture,Study Desk,1,9123.19,6100,0.0
+ORD-001146,2024-12-18,CUST-00395,Consumer,East,Technology,Wireless Mouse,7,806.96,430,0.0
+ORD-001147,2025-01-22,CUST-00233,Small Business,Central,Furniture,Bookshelf,1,7538.29,4800,0.15
+ORD-001148,2025-07-15,CUST-00128,Consumer,West,Furniture,Bookshelf,7,6509.58,4800,0.15
+ORD-001149,2025-05-18,CUST-00332,Consumer,Central,Office Supplies,Notebook Pack,5,326.23,170,0.1
+ORD-001150,2025-09-13,CUST-00221,Consumer,East,Technology,Wireless Mouse,5,828.6,430,0.05
+ORD-001151,2024-09-27,CUST-00164,Consumer,East,Furniture,Bookshelf,1,7743.55,4800,0.1
+ORD-001152,2025-01-03,CUST-00471,Consumer,North,Technology,Wireless Mouse,7,865.09,430,0.05
+ORD-001153,2024-11-10,CUST-00075,Small Business,North,Furniture,Bookshelf,1,7563.03,4800,0.0
+ORD-001154,2025-10-25,CUST-00366,Small Business,West,Technology,Keyboard,5,1413.18,800,0.0
+ORD-001155,2024-08-10,CUST-00224,Corporate,North,Technology,USB Hub,2,1132.7,620,0.0
+ORD-001156,2025-03-04,CUST-00152,Consumer,North,Technology,USB Hub,2,1203.1,620,0.0
+ORD-001157,2024-03-28,CUST-00496,Consumer,West,Technology,Keyboard,3,1365.2,800,0.0
+ORD-001158,2025-09-12,CUST-00062,Small Business,East,Office Supplies,Notebook Pack,4,350.4,170,0.1
+ORD-001159,2024-10-07,CUST-00124,Consumer,Central,Technology,USB Hub,2,1204.32,620,0.0
+ORD-001160,2024-09-05,CUST-00018,Consumer,East,Technology,USB Hub,7,1253.19,620,0.0
+ORD-001161,2025-03-01,CUST-00120,Consumer,Central,Technology,USB Hub,3,1098.85,620,0.0
+ORD-001162,2024-12-30,CUST-00427,Small Business,North,Technology,Keyboard,4,1612.63,800,0.0
+ORD-001163,2025-09-11,CUST-00177,Consumer,North,Technology,Keyboard,4,1633.29,800,0.0
+ORD-001164,2025-01-22,CUST-00288,Small Business,East,Furniture,Bookshelf,6,7367.87,4800,0.1
+ORD-001165,2025-01-12,CUST-00266,Small Business,West,Technology,Monitor,1,12255.35,8500,0.0
+ORD-001166,2024-03-17,CUST-00222,Small Business,West,Technology,Monitor,2,13125.39,8500,0.15
+ORD-001167,2024-01-17,CUST-00301,Corporate,West,Office Supplies,Pen Set,7,205.83,90,0.05
+ORD-001168,2024-10-17,CUST-00002,Consumer,Central,Furniture,Office Chair,4,6973.0,4200,0.05
+ORD-001169,2025-12-29,CUST-00346,Corporate,East,Furniture,Office Chair,6,6894.35,4200,0.15
+ORD-001170,2025-10-31,CUST-00122,Small Business,South,Furniture,Study Desk,6,8268.02,6100,0.0
+ORD-001171,2025-04-04,CUST-00058,Small Business,South,Office Supplies,Notebook Pack,6,326.19,170,0.1
+ORD-001172,2025-04-05,CUST-00433,Consumer,South,Technology,Wireless Mouse,5,783.46,430,0.0
+ORD-001173,2024-10-12,CUST-00129,Corporate,East,Office Supplies,Pen Set,3,202.91,90,0.15
+ORD-001174,2024-05-09,CUST-00206,Consumer,Central,Furniture,Office Chair,3,6168.35,4200,0.0
+ORD-001175,2024-01-07,CUST-00137,Consumer,North,Office Supplies,Pen Set,3,216.83,90,0.0
+ORD-001176,2024-09-04,CUST-00321,Corporate,East,Technology,USB Hub,7,1128.38,620,0.05
+ORD-001177,2024-08-19,CUST-00031,Corporate,Central,Office Supplies,Pen Set,5,223.49,90,0.1
+ORD-001178,2024-05-19,CUST-00061,Small Business,West,Office Supplies,Notebook Pack,4,370.57,170,0.0
+ORD-001179,2024-07-08,CUST-00409,Corporate,South,Office Supplies,Notebook Pack,5,338.73,170,0.05
+ORD-001180,2024-01-19,CUST-00036,Consumer,North,Technology,Wireless Mouse,1,920.83,430,0.0
+ORD-001181,2025-03-19,CUST-00494,Corporate,West,Furniture,Study Desk,5,9045.17,6100,0.05
+ORD-001182,2025-11-08,CUST-00300,Small Business,Central,Furniture,Study Desk,1,9518.48,6100,0.0
+ORD-001183,2025-05-19,CUST-00441,Consumer,North,Office Supplies,Notebook Pack,6,374.47,170,0.0
+ORD-001184,2024-11-23,CUST-00403,Small Business,East,Furniture,Bookshelf,6,6756.89,4800,0.1
+ORD-001185,2024-11-02,CUST-00161,Corporate,East,Technology,Keyboard,2,1480.53,800,0.05
+ORD-001186,2024-08-12,CUST-00218,Small Business,Central,Technology,Wireless Mouse,3,771.13,430,0.05
+ORD-001187,2024-04-13,CUST-00443,Corporate,East,Office Supplies,Desk Organizer,1,745.43,330,0.0
+ORD-001188,2025-03-12,CUST-00471,Small Business,Central,Technology,Keyboard,1,1517.39,800,0.05
+ORD-001189,2025-02-17,CUST-00030,Consumer,Central,Office Supplies,Desk Organizer,6,744.54,330,0.05
+ORD-001190,2024-01-06,CUST-00172,Corporate,North,Technology,Keyboard,6,1566.54,800,0.05
+ORD-001191,2024-10-30,CUST-00311,Corporate,Central,Furniture,Office Chair,3,6009.11,4200,0.05
+ORD-001192,2024-07-21,CUST-00084,Corporate,East,Furniture,Study Desk,4,9190.76,6100,0.0
+ORD-001193,2024-05-04,CUST-00428,Small Business,South,Technology,Wireless Mouse,5,872.16,430,0.05
+ORD-001194,2025-05-28,CUST-00370,Corporate,Central,Office Supplies,Pen Set,5,225.51,90,0.0
+ORD-001195,2025-01-18,CUST-00190,Corporate,East,Furniture,Study Desk,1,8332.76,6100,0.0
+ORD-001196,2025-04-07,CUST-00018,Consumer,South,Technology,Keyboard,3,1575.57,800,0.05
+ORD-001197,2025-06-04,CUST-00271,Small Business,Central,Office Supplies,Pen Set,4,233.03,90,0.0
+ORD-001198,2025-12-17,CUST-00008,Small Business,East,Office Supplies,Pen Set,1,232.87,90,0.0
+ORD-001199,2025-08-09,CUST-00181,Consumer,North,Technology,Monitor,1,10820.31,8500,0.0
+ORD-001200,2025-03-28,CUST-00305,Consumer,East,Office Supplies,Notebook Pack,3,346.88,170,0.05
+ORD-001201,2025-10-03,CUST-00136,Consumer,West,Technology,Wireless Mouse,4,919.7,430,0.0
+ORD-001202,2024-12-14,CUST-00399,Consumer,Central,Furniture,Office Chair,3,6387.76,4200,0.0
+ORD-001203,2025-12-19,CUST-00295,Corporate,Central,Furniture,Office Chair,2,6731.25,4200,0.0
+ORD-001204,2025-07-09,CUST-00416,Corporate,East,Furniture,Study Desk,1,9575.55,6100,0.0
+ORD-001205,2025-04-20,CUST-00291,Small Business,East,Technology,Keyboard,1,1643.13,800,0.05
+ORD-001206,2025-10-21,CUST-00198,Consumer,East,Office Supplies,Desk Organizer,6,679.69,330,0.1
+ORD-001207,2025-01-11,CUST-00192,Corporate,West,Technology,Keyboard,1,1368.25,800,0.05
+ORD-001208,2025-06-10,CUST-00227,Corporate,West,Technology,Monitor,1,12619.81,8500,0.1
+ORD-001209,2024-07-26,CUST-00164,Consumer,West,Office Supplies,Desk Organizer,6,711.45,330,0.05
+ORD-001210,2025-12-04,CUST-00386,Small Business,North,Technology,Monitor,4,12133.71,8500,0.0
+ORD-001211,2025-03-31,CUST-00332,Consumer,East,Office Supplies,Desk Organizer,3,683.14,330,0.1
+ORD-001212,2025-07-24,CUST-00263,Consumer,Central,Technology,USB Hub,6,1181.85,620,0.1
+ORD-001213,2024-12-02,CUST-00143,Consumer,South,Furniture,Office Chair,5,5987.57,4200,0.05
+ORD-001214,2025-09-24,CUST-00317,Corporate,North,Office Supplies,Notebook Pack,6,323.65,170,0.15
+ORD-001215,2024-02-24,CUST-00468,Consumer,East,Office Supplies,Desk Organizer,7,634.68,330,0.05
+ORD-001216,2024-03-24,CUST-00008,Corporate,Central,Office Supplies,Desk Organizer,6,716.8,330,0.1
+ORD-001217,2025-01-05,CUST-00309,Consumer,South,Furniture,Study Desk,5,9852.76,6100,0.0
+ORD-001218,2025-06-18,CUST-00028,Consumer,West,Furniture,Office Chair,2,7128.39,4200,0.1
+ORD-001219,2025-08-13,CUST-00495,Consumer,West,Furniture,Bookshelf,4,6968.52,4800,0.05
+ORD-001220,2024-11-17,CUST-00111,Consumer,East,Furniture,Office Chair,5,6112.36,4200,0.15
+ORD-001221,2025-04-19,CUST-00186,Corporate,West,Office Supplies,Pen Set,6,215.94,90,0.0
+ORD-001222,2025-02-07,CUST-00117,Consumer,South,Technology,Keyboard,6,1414.51,800,0.0
+ORD-001223,2025-12-02,CUST-00452,Corporate,North,Technology,Wireless Mouse,6,820.21,430,0.05
+ORD-001224,2025-04-22,CUST-00259,Small Business,North,Technology,Keyboard,2,1544.57,800,0.05
+ORD-001225,2024-10-31,CUST-00284,Consumer,East,Office Supplies,Pen Set,3,213.41,90,0.0
+ORD-001226,2025-12-08,CUST-00014,Small Business,South,Office Supplies,Desk Organizer,7,724.9,330,0.0
+ORD-001227,2024-03-19,CUST-00326,Corporate,South,Furniture,Office Chair,7,6892.37,4200,0.15
+ORD-001228,2025-12-19,CUST-00213,Small Business,South,Furniture,Bookshelf,7,7356.4,4800,0.05
+ORD-001229,2024-04-22,CUST-00161,Small Business,North,Technology,Monitor,4,11304.01,8500,0.0
+ORD-001230,2024-07-29,CUST-00463,Corporate,North,Technology,Wireless Mouse,6,867.32,430,0.15
+ORD-001231,2025-08-22,CUST-00264,Small Business,West,Office Supplies,Desk Organizer,6,674.4,330,0.05
+ORD-001232,2025-06-19,CUST-00372,Small Business,Central,Office Supplies,Pen Set,2,241.44,90,0.0
+ORD-001233,2025-12-09,CUST-00301,Corporate,West,Office Supplies,Pen Set,2,230.55,90,0.1
+ORD-001234,2025-07-01,CUST-00175,Consumer,West,Furniture,Bookshelf,7,6883.62,4800,0.05
+ORD-001235,2025-04-10,CUST-00395,Corporate,East,Office Supplies,Pen Set,2,220.38,90,0.0
+ORD-001236,2024-09-09,CUST-00130,Corporate,Central,Technology,Wireless Mouse,3,817.52,430,0.15
+ORD-001237,2024-01-04,CUST-00361,Small Business,East,Furniture,Office Chair,3,6755.93,4200,0.05
+ORD-001238,2024-03-31,CUST-00452,Small Business,East,Technology,Monitor,1,10962.84,8500,0.0
+ORD-001239,2024-08-05,CUST-00247,Corporate,East,Technology,Monitor,7,12231.79,8500,0.0
+ORD-001240,2024-01-30,CUST-00362,Small Business,West,Furniture,Bookshelf,6,7510.05,4800,0.1
+ORD-001241,2025-01-05,CUST-00483,Corporate,North,Furniture,Study Desk,5,9237.53,6100,0.1
+ORD-001242,2025-07-21,CUST-00144,Small Business,East,Technology,Keyboard,2,1459.42,800,0.15
+ORD-001243,2025-12-04,CUST-00088,Small Business,East,Technology,Keyboard,3,1468.8,800,0.0
+ORD-001244,2024-12-23,CUST-00269,Small Business,North,Furniture,Study Desk,2,9175.75,6100,0.05
+ORD-001245,2025-09-30,CUST-00181,Small Business,South,Furniture,Bookshelf,7,7849.76,4800,0.05
+ORD-001246,2025-12-20,CUST-00410,Small Business,North,Furniture,Office Chair,5,6871.85,4200,0.1
+ORD-001247,2025-09-19,CUST-00482,Corporate,South,Office Supplies,Pen Set,1,231.72,90,0.0
+ORD-001248,2024-12-05,CUST-00299,Small Business,North,Furniture,Study Desk,2,8109.33,6100,0.0
+ORD-001249,2024-08-25,CUST-00129,Small Business,Central,Furniture,Office Chair,1,6524.22,4200,0.1
+ORD-001250,2025-12-14,CUST-00367,Corporate,South,Technology,USB Hub,7,1287.33,620,0.1
+ORD-001251,2024-06-25,CUST-00450,Corporate,East,Office Supplies,Pen Set,1,221.26,90,0.1
+ORD-001252,2024-10-27,CUST-00405,Consumer,North,Furniture,Study Desk,6,8102.32,6100,0.05
+ORD-001253,2024-02-24,CUST-00488,Corporate,North,Office Supplies,Notebook Pack,7,365.27,170,0.0
+ORD-001254,2025-08-02,CUST-00191,Corporate,North,Furniture,Bookshelf,4,6518.79,4800,0.05
+ORD-001255,2025-04-19,CUST-00489,Small Business,South,Office Supplies,Pen Set,4,219.24,90,0.0
+ORD-001256,2024-03-02,CUST-00300,Consumer,South,Technology,Monitor,2,12269.07,8500,0.1
+ORD-001257,2024-06-11,CUST-00115,Consumer,South,Furniture,Office Chair,5,6011.05,4200,0.0
+ORD-001258,2025-02-09,CUST-00052,Small Business,West,Office Supplies,Desk Organizer,2,754.18,330,0.15
+ORD-001259,2025-01-29,CUST-00099,Corporate,North,Technology,Monitor,1,11356.86,8500,0.15
+ORD-001260,2025-08-08,CUST-00191,Consumer,South,Furniture,Bookshelf,2,7214.42,4800,0.0
+ORD-001261,2024-07-13,CUST-00111,Corporate,South,Furniture,Bookshelf,3,7098.29,4800,0.0
+ORD-001262,2025-11-06,CUST-00428,Small Business,North,Technology,Keyboard,3,1525.21,800,0.0
+ORD-001263,2024-11-20,CUST-00007,Consumer,South,Office Supplies,Notebook Pack,7,319.33,170,0.0
+ORD-001264,2025-08-23,CUST-00360,Corporate,Central,Technology,USB Hub,7,1182.48,620,0.1
+ORD-001265,2024-06-23,CUST-00109,Corporate,South,Technology,Monitor,6,12071.59,8500,0.1
+ORD-001266,2024-01-27,CUST-00114,Corporate,Central,Office Supplies,Desk Organizer,6,646.18,330,0.15
+ORD-001267,2024-02-10,CUST-00419,Corporate,West,Furniture,Bookshelf,2,6779.77,4800,0.05
+ORD-001268,2024-09-29,CUST-00373,Consumer,South,Furniture,Bookshelf,2,6740.81,4800,0.0
+ORD-001269,2025-11-26,CUST-00287,Corporate,Central,Office Supplies,Desk Organizer,5,737.66,330,0.05
+ORD-001270,2024-02-05,CUST-00239,Consumer,South,Technology,Keyboard,5,1420.48,800,0.0
+ORD-001271,2024-09-26,CUST-00128,Small Business,East,Furniture,Study Desk,6,8212.14,6100,0.0
+ORD-001272,2024-03-20,CUST-00321,Small Business,East,Office Supplies,Notebook Pack,7,338.62,170,0.0
+ORD-001273,2025-11-11,CUST-00292,Small Business,West,Furniture,Bookshelf,4,7245.14,4800,0.1
+ORD-001274,2025-05-07,CUST-00191,Corporate,West,Office Supplies,Pen Set,5,208.12,90,0.05
+ORD-001275,2025-07-10,CUST-00004,Consumer,Central,Furniture,Study Desk,5,9663.19,6100,0.0
+ORD-001276,2025-06-04,CUST-00159,Small Business,East,Furniture,Bookshelf,7,7705.81,4800,0.0
+ORD-001277,2025-04-24,CUST-00333,Small Business,North,Furniture,Study Desk,4,8860.23,6100,0.0
+ORD-001278,2025-07-18,CUST-00068,Corporate,South,Office Supplies,Pen Set,4,229.3,90,0.0
+ORD-001279,2024-01-06,CUST-00356,Consumer,West,Office Supplies,Desk Organizer,3,643.28,330,0.1
+ORD-001280,2025-09-23,CUST-00170,Corporate,West,Office Supplies,Pen Set,2,230.05,90,0.05
+ORD-001281,2025-06-24,CUST-00367,Consumer,Central,Technology,Monitor,1,12188.53,8500,0.1
+ORD-001282,2025-06-23,CUST-00428,Small Business,Central,Technology,Monitor,3,11263.4,8500,0.0
+ORD-001283,2024-10-14,CUST-00225,Consumer,East,Furniture,Study Desk,3,9536.48,6100,0.15
+ORD-001284,2025-08-07,CUST-00359,Corporate,North,Technology,Keyboard,3,1510.37,800,0.0
+ORD-001285,2024-10-05,CUST-00273,Consumer,West,Technology,Monitor,2,12358.76,8500,0.0
+ORD-001286,2024-02-05,CUST-00058,Small Business,Central,Technology,Wireless Mouse,3,921.8,430,0.0
+ORD-001287,2025-10-24,CUST-00218,Corporate,West,Office Supplies,Notebook Pack,6,339.98,170,0.0
+ORD-001288,2024-06-20,CUST-00131,Corporate,South,Technology,Keyboard,7,1398.89,800,0.05
+ORD-001289,2024-03-15,CUST-00136,Small Business,East,Office Supplies,Desk Organizer,4,698.98,330,0.1
+ORD-001290,2025-03-29,CUST-00066,Corporate,Central,Technology,USB Hub,5,1249.15,620,0.05
+ORD-001291,2024-06-19,CUST-00172,Small Business,North,Technology,Keyboard,3,1644.66,800,0.05
+ORD-001292,2025-09-18,CUST-00272,Consumer,North,Furniture,Study Desk,5,8412.57,6100,0.05
+ORD-001293,2024-11-19,CUST-00393,Small Business,West,Office Supplies,Desk Organizer,7,714.2,330,0.1
+ORD-001294,2024-01-04,CUST-00345,Small Business,West,Furniture,Office Chair,7,6207.71,4200,0.0
+ORD-001295,2025-11-25,CUST-00099,Consumer,East,Technology,Wireless Mouse,4,788.06,430,0.05
+ORD-001296,2025-01-10,CUST-00014,Consumer,South,Furniture,Office Chair,6,6099.42,4200,0.15
+ORD-001297,2024-07-10,CUST-00111,Small Business,North,Furniture,Office Chair,1,6336.01,4200,0.05
+ORD-001298,2025-05-09,CUST-00182,Corporate,West,Office Supplies,Pen Set,7,219.21,90,0.1
+ORD-001299,2025-01-22,CUST-00145,Corporate,West,Furniture,Study Desk,1,9576.12,6100,0.05
+ORD-001300,2024-01-22,CUST-00439,Consumer,North,Furniture,Bookshelf,1,7612.93,4800,0.05
+ORD-001301,2025-07-08,CUST-00257,Consumer,Central,Office Supplies,Desk Organizer,4,715.52,330,0.05
+ORD-001302,2024-10-19,CUST-00224,Corporate,Central,Office Supplies,Notebook Pack,3,364.82,170,0.0
+ORD-001303,2025-05-25,CUST-00413,Small Business,East,Furniture,Bookshelf,4,6512.26,4800,0.05
+ORD-001304,2025-10-15,CUST-00160,Consumer,West,Technology,Wireless Mouse,7,920.2,430,0.0
+ORD-001305,2025-03-21,CUST-00459,Corporate,North,Technology,USB Hub,5,1137.46,620,0.1
+ORD-001306,2025-05-05,CUST-00196,Corporate,West,Technology,USB Hub,1,1226.92,620,0.1
+ORD-001307,2024-07-04,CUST-00043,Small Business,North,Technology,Monitor,1,11118.55,8500,0.15
+ORD-001308,2024-06-22,CUST-00398,Small Business,North,Technology,USB Hub,3,1217.83,620,0.0
+ORD-001309,2024-10-29,CUST-00134,Consumer,Central,Technology,Keyboard,2,1393.34,800,0.05
+ORD-001310,2025-09-14,CUST-00343,Consumer,North,Office Supplies,Pen Set,5,237.95,90,0.05
+ORD-001311,2025-01-17,CUST-00330,Consumer,Central,Technology,Keyboard,6,1493.14,800,0.05
+ORD-001312,2024-09-11,CUST-00037,Small Business,West,Furniture,Study Desk,1,8327.54,6100,0.0
+ORD-001313,2025-07-23,CUST-00140,Consumer,East,Technology,Keyboard,4,1535.4,800,0.0
+ORD-001314,2025-09-14,CUST-00434,Consumer,Central,Office Supplies,Notebook Pack,6,347.1,170,0.0
+ORD-001315,2025-10-20,CUST-00019,Corporate,South,Technology,Wireless Mouse,6,923.14,430,0.1
+ORD-001316,2024-08-06,CUST-00484,Corporate,East,Office Supplies,Desk Organizer,2,668.75,330,0.0
+ORD-001317,2025-06-02,CUST-00442,Corporate,South,Office Supplies,Notebook Pack,1,361.06,170,0.0
+ORD-001318,2025-03-06,CUST-00321,Small Business,East,Furniture,Bookshelf,2,6670.29,4800,0.15
+ORD-001319,2024-11-23,CUST-00143,Corporate,Central,Technology,Monitor,4,10930.66,8500,0.0
+ORD-001320,2024-10-16,CUST-00170,Small Business,East,Furniture,Study Desk,1,8575.77,6100,0.0
+ORD-001321,2024-03-24,CUST-00079,Corporate,Central,Technology,Wireless Mouse,5,862.82,430,0.05
+ORD-001322,2024-07-19,CUST-00354,Consumer,North,Furniture,Study Desk,6,8597.03,6100,0.05
+ORD-001323,2025-02-05,CUST-00385,Small Business,Central,Office Supplies,Desk Organizer,6,745.27,330,0.0
+ORD-001324,2025-10-09,CUST-00085,Small Business,West,Technology,Wireless Mouse,7,920.35,430,0.15
+ORD-001325,2025-09-24,CUST-00420,Small Business,East,Office Supplies,Notebook Pack,1,372.6,170,0.05
+ORD-001326,2024-05-16,CUST-00040,Small Business,Central,Office Supplies,Notebook Pack,1,344.81,170,0.0
+ORD-001327,2025-05-10,CUST-00190,Corporate,Central,Office Supplies,Desk Organizer,5,638.78,330,0.0
+ORD-001328,2024-03-02,CUST-00275,Small Business,North,Technology,USB Hub,3,1088.27,620,0.0
+ORD-001329,2025-05-07,CUST-00008,Consumer,South,Furniture,Office Chair,2,6809.81,4200,0.1
+ORD-001330,2024-09-06,CUST-00195,Corporate,South,Furniture,Bookshelf,4,7919.8,4800,0.1
+ORD-001331,2024-11-24,CUST-00128,Consumer,South,Furniture,Study Desk,3,9027.66,6100,0.05
+ORD-001332,2025-06-07,CUST-00479,Small Business,East,Furniture,Office Chair,1,6615.91,4200,0.0
+ORD-001333,2024-11-06,CUST-00368,Small Business,North,Furniture,Bookshelf,3,7336.79,4800,0.05
+ORD-001334,2025-08-12,CUST-00103,Consumer,Central,Office Supplies,Pen Set,4,218.31,90,0.0
+ORD-001335,2025-01-24,CUST-00099,Consumer,South,Technology,Wireless Mouse,4,849.39,430,0.1
+ORD-001336,2025-12-30,CUST-00496,Corporate,North,Office Supplies,Notebook Pack,5,356.96,170,0.15
+ORD-001337,2025-04-10,CUST-00324,Small Business,West,Furniture,Bookshelf,5,6673.26,4800,0.0
+ORD-001338,2024-08-04,CUST-00045,Corporate,South,Office Supplies,Desk Organizer,7,661.32,330,0.15
+ORD-001339,2025-07-19,CUST-00409,Small Business,West,Office Supplies,Pen Set,6,204.78,90,0.0
+ORD-001340,2024-10-24,CUST-00321,Corporate,South,Furniture,Study Desk,6,8950.84,6100,0.05
+ORD-001341,2025-01-24,CUST-00157,Consumer,East,Office Supplies,Notebook Pack,5,357.22,170,0.15
+ORD-001342,2024-04-09,CUST-00365,Corporate,Central,Technology,Monitor,4,11072.42,8500,0.05
+ORD-001343,2024-03-28,CUST-00286,Small Business,North,Office Supplies,Desk Organizer,2,756.87,330,0.15
+ORD-001344,2025-02-23,CUST-00107,Consumer,North,Office Supplies,Notebook Pack,5,369.69,170,0.05
+ORD-001345,2024-05-16,CUST-00407,Corporate,South,Office Supplies,Notebook Pack,7,347.26,170,0.0
+ORD-001346,2025-12-29,CUST-00240,Corporate,South,Office Supplies,Desk Organizer,1,689.44,330,0.15
+ORD-001347,2025-09-16,CUST-00458,Consumer,East,Office Supplies,Desk Organizer,2,737.63,330,0.0
+ORD-001348,2025-05-26,CUST-00132,Small Business,North,Technology,USB Hub,3,1118.57,620,0.0
+ORD-001349,2025-06-20,CUST-00499,Consumer,West,Technology,USB Hub,4,1105.95,620,0.1
+ORD-001350,2025-03-10,CUST-00166,Small Business,East,Furniture,Bookshelf,7,7432.93,4800,0.0
+ORD-001351,2024-02-14,CUST-00366,Corporate,North,Technology,Monitor,4,11865.1,8500,0.05
+ORD-001352,2024-10-13,CUST-00482,Small Business,Central,Office Supplies,Pen Set,3,225.35,90,0.05
+ORD-001353,2024-12-27,CUST-00273,Consumer,North,Technology,Monitor,5,12475.91,8500,0.1
+ORD-001354,2025-10-30,CUST-00435,Corporate,West,Furniture,Study Desk,1,8752.8,6100,0.0
+ORD-001355,2024-06-09,CUST-00176,Consumer,East,Furniture,Office Chair,4,6066.93,4200,0.0
+ORD-001356,2024-12-28,CUST-00390,Small Business,West,Technology,Wireless Mouse,5,830.1,430,0.0
+ORD-001357,2024-09-08,CUST-00044,Consumer,South,Furniture,Office Chair,6,5909.21,4200,0.0
+ORD-001358,2024-04-08,CUST-00254,Corporate,Central,Furniture,Bookshelf,5,6666.14,4800,0.0
+ORD-001359,2024-03-16,CUST-00192,Consumer,West,Office Supplies,Pen Set,5,240.95,90,0.05
+ORD-001360,2024-09-23,CUST-00266,Consumer,North,Furniture,Office Chair,4,5996.08,4200,0.0
+ORD-001361,2024-03-01,CUST-00335,Small Business,South,Technology,USB Hub,4,1133.08,620,0.05
+ORD-001362,2024-02-19,CUST-00150,Corporate,South,Furniture,Bookshelf,1,7710.11,4800,0.1
+ORD-001363,2024-09-13,CUST-00147,Consumer,North,Furniture,Bookshelf,1,7113.6,4800,0.0
+ORD-001364,2024-05-27,CUST-00019,Corporate,West,Furniture,Bookshelf,7,7784.9,4800,0.15
+ORD-001365,2025-02-09,CUST-00475,Corporate,North,Technology,Monitor,1,11662.27,8500,0.0
+ORD-001366,2024-01-13,CUST-00451,Corporate,North,Furniture,Bookshelf,4,6506.11,4800,0.0
+ORD-001367,2024-08-08,CUST-00423,Corporate,North,Technology,Keyboard,5,1587.19,800,0.05
+ORD-001368,2024-11-26,CUST-00073,Corporate,Central,Furniture,Study Desk,1,9212.38,6100,0.0
+ORD-001369,2025-12-04,CUST-00452,Small Business,Central,Technology,Keyboard,5,1593.36,800,0.05
+ORD-001370,2025-04-08,CUST-00150,Corporate,West,Furniture,Bookshelf,5,7062.4,4800,0.05
+ORD-001371,2025-10-04,CUST-00492,Consumer,East,Technology,USB Hub,1,1217.73,620,0.1
+ORD-001372,2024-09-07,CUST-00389,Consumer,North,Technology,USB Hub,5,1157.43,620,0.1
+ORD-001373,2024-11-24,CUST-00371,Consumer,West,Office Supplies,Pen Set,1,216.27,90,0.0
+ORD-001374,2024-11-02,CUST-00147,Corporate,West,Furniture,Bookshelf,3,7525.74,4800,0.1
+ORD-001375,2025-10-09,CUST-00371,Corporate,North,Office Supplies,Notebook Pack,3,324.66,170,0.0
+ORD-001376,2025-12-01,CUST-00473,Corporate,Central,Office Supplies,Notebook Pack,2,318.43,170,0.1
+ORD-001377,2025-12-03,CUST-00351,Small Business,Central,Office Supplies,Desk Organizer,4,710.78,330,0.0
+ORD-001378,2025-07-02,CUST-00248,Small Business,Central,Furniture,Office Chair,5,6594.41,4200,0.0
+ORD-001379,2025-01-02,CUST-00457,Consumer,South,Technology,Wireless Mouse,6,884.81,430,0.05
+ORD-001380,2025-01-29,CUST-00032,Corporate,South,Technology,Keyboard,4,1445.14,800,0.1
+ORD-001381,2025-12-16,CUST-00112,Corporate,East,Furniture,Bookshelf,6,6538.48,4800,0.0
+ORD-001382,2024-07-26,CUST-00396,Small Business,West,Technology,USB Hub,2,1114.17,620,0.05
+ORD-001383,2024-09-10,CUST-00495,Small Business,West,Furniture,Study Desk,2,9783.36,6100,0.0
+ORD-001384,2025-10-16,CUST-00386,Corporate,South,Office Supplies,Desk Organizer,6,718.55,330,0.05
+ORD-001385,2024-10-09,CUST-00087,Small Business,Central,Office Supplies,Pen Set,2,215.67,90,0.05
+ORD-001386,2024-06-20,CUST-00133,Corporate,Central,Technology,Monitor,2,12987.57,8500,0.15
+ORD-001387,2025-02-13,CUST-00335,Corporate,East,Office Supplies,Pen Set,5,235.43,90,0.0
+ORD-001388,2024-08-25,CUST-00249,Corporate,West,Furniture,Bookshelf,6,7018.63,4800,0.0
+ORD-001389,2025-10-12,CUST-00212,Corporate,East,Technology,Wireless Mouse,1,803.21,430,0.0
+ORD-001390,2025-10-25,CUST-00159,Small Business,Central,Technology,Monitor,3,11067.32,8500,0.05
+ORD-001391,2024-08-11,CUST-00264,Small Business,East,Furniture,Office Chair,1,6684.99,4200,0.0
+ORD-001392,2025-01-21,CUST-00091,Corporate,East,Furniture,Study Desk,2,8771.45,6100,0.05
+ORD-001393,2025-12-19,CUST-00389,Small Business,East,Technology,Keyboard,3,1420.73,800,0.0
+ORD-001394,2025-06-25,CUST-00270,Consumer,Central,Furniture,Office Chair,1,6849.85,4200,0.0
+ORD-001395,2024-06-06,CUST-00431,Consumer,North,Office Supplies,Notebook Pack,4,342.95,170,0.1
+ORD-001396,2025-03-07,CUST-00059,Corporate,South,Furniture,Study Desk,7,9180.05,6100,0.0
+ORD-001397,2025-03-28,CUST-00219,Consumer,South,Furniture,Study Desk,6,8533.67,6100,0.1
+ORD-001398,2025-04-22,CUST-00369,Consumer,East,Office Supplies,Desk Organizer,4,642.86,330,0.0
+ORD-001399,2024-01-19,CUST-00229,Corporate,Central,Office Supplies,Desk Organizer,6,757.52,330,0.1
+ORD-001400,2024-08-06,CUST-00271,Small Business,West,Furniture,Study Desk,1,8618.09,6100,0.1
+ORD-001401,2025-09-15,CUST-00134,Consumer,Central,Office Supplies,Pen Set,6,235.34,90,0.0
+ORD-001402,2024-06-25,CUST-00061,Corporate,North,Technology,USB Hub,5,1163.49,620,0.05
+ORD-001403,2024-08-06,CUST-00471,Small Business,South,Furniture,Study Desk,6,8606.18,6100,0.05
+ORD-001404,2024-08-23,CUST-00364,Consumer,South,Technology,Wireless Mouse,6,931.22,430,0.05
+ORD-001405,2024-05-09,CUST-00047,Small Business,North,Office Supplies,Notebook Pack,2,381.68,170,0.05
+ORD-001406,2024-04-23,CUST-00101,Corporate,Central,Furniture,Study Desk,4,8462.8,6100,0.1
+ORD-001407,2024-09-10,CUST-00148,Corporate,East,Technology,USB Hub,2,1133.52,620,0.0
+ORD-001408,2025-09-30,CUST-00346,Small Business,Central,Furniture,Bookshelf,4,7258.46,4800,0.0
+ORD-001409,2024-01-02,CUST-00250,Small Business,North,Office Supplies,Pen Set,1,216.15,90,0.05
+ORD-001410,2024-07-25,CUST-00122,Small Business,Central,Technology,Monitor,1,11710.92,8500,0.0
+ORD-001411,2024-02-14,CUST-00402,Small Business,South,Furniture,Office Chair,5,6478.42,4200,0.0
+ORD-001412,2025-02-13,CUST-00390,Small Business,South,Furniture,Bookshelf,4,7840.91,4800,0.0
+ORD-001413,2024-07-01,CUST-00294,Small Business,West,Furniture,Office Chair,7,6175.89,4200,0.05
+ORD-001414,2025-08-01,CUST-00277,Corporate,West,Office Supplies,Notebook Pack,1,383.1,170,0.05
+ORD-001415,2025-03-03,CUST-00289,Small Business,South,Furniture,Study Desk,5,8555.52,6100,0.15
+ORD-001416,2025-07-26,CUST-00395,Corporate,North,Office Supplies,Notebook Pack,7,371.3,170,0.0
+ORD-001417,2025-04-08,CUST-00343,Corporate,North,Technology,USB Hub,4,1246.36,620,0.05
+ORD-001418,2024-11-16,CUST-00131,Consumer,West,Office Supplies,Desk Organizer,2,733.79,330,0.0
+ORD-001419,2025-09-20,CUST-00135,Small Business,North,Furniture,Bookshelf,3,7343.81,4800,0.0
+ORD-001420,2024-12-13,CUST-00254,Small Business,South,Technology,Keyboard,1,1414.5,800,0.1
+ORD-001421,2025-11-24,CUST-00420,Consumer,East,Technology,Monitor,5,11960.27,8500,0.0
+ORD-001422,2025-12-27,CUST-00099,Consumer,South,Furniture,Bookshelf,3,7691.89,4800,0.1
+ORD-001423,2025-03-05,CUST-00020,Small Business,North,Furniture,Study Desk,7,8999.92,6100,0.1
+ORD-001424,2025-05-07,CUST-00009,Small Business,North,Furniture,Study Desk,3,9159.78,6100,0.05
+ORD-001425,2024-07-05,CUST-00022,Small Business,South,Furniture,Office Chair,7,5958.55,4200,0.05
+ORD-001426,2025-08-17,CUST-00324,Consumer,West,Furniture,Office Chair,1,7111.67,4200,0.15
+ORD-001427,2025-05-05,CUST-00015,Consumer,South,Technology,Keyboard,4,1562.54,800,0.0
+ORD-001428,2025-10-20,CUST-00149,Corporate,South,Office Supplies,Desk Organizer,6,728.86,330,0.05
+ORD-001429,2024-07-13,CUST-00455,Corporate,North,Technology,Monitor,4,11159.25,8500,0.0
+ORD-001430,2025-07-28,CUST-00292,Consumer,North,Furniture,Study Desk,4,9825.16,6100,0.0
+ORD-001431,2024-12-09,CUST-00312,Small Business,Central,Office Supplies,Desk Organizer,5,722.78,330,0.15
+ORD-001432,2024-05-15,CUST-00309,Small Business,Central,Office Supplies,Notebook Pack,3,350.63,170,0.0
+ORD-001433,2024-05-04,CUST-00071,Small Business,East,Furniture,Bookshelf,2,7737.66,4800,0.15
+ORD-001434,2025-02-14,CUST-00442,Corporate,North,Furniture,Bookshelf,6,7818.86,4800,0.0
+ORD-001435,2024-08-21,CUST-00197,Small Business,Central,Office Supplies,Desk Organizer,5,710.63,330,0.1
+ORD-001436,2024-03-15,CUST-00093,Small Business,East,Technology,Wireless Mouse,2,765.81,430,0.05
+ORD-001437,2024-11-07,CUST-00279,Small Business,North,Furniture,Office Chair,1,6071.84,4200,0.05
+ORD-001438,2025-04-21,CUST-00108,Small Business,South,Technology,Keyboard,1,1414.45,800,0.05
+ORD-001439,2024-08-20,CUST-00181,Consumer,West,Furniture,Office Chair,6,6517.77,4200,0.05
+ORD-001440,2025-11-28,CUST-00466,Consumer,East,Technology,Keyboard,6,1436.09,800,0.15
+ORD-001441,2025-07-23,CUST-00307,Consumer,Central,Furniture,Study Desk,5,8205.37,6100,0.1
+ORD-001442,2025-01-09,CUST-00180,Corporate,South,Furniture,Bookshelf,3,6630.92,4800,0.15
+ORD-001443,2025-11-13,CUST-00130,Consumer,West,Furniture,Office Chair,3,6773.2,4200,0.0
+ORD-001444,2024-11-12,CUST-00255,Corporate,Central,Technology,USB Hub,5,1100.95,620,0.0
+ORD-001445,2024-04-11,CUST-00075,Corporate,East,Office Supplies,Desk Organizer,2,631.98,330,0.1
+ORD-001446,2024-01-27,CUST-00419,Corporate,Central,Furniture,Bookshelf,6,7780.46,4800,0.0
+ORD-001447,2025-11-15,CUST-00448,Corporate,Central,Furniture,Study Desk,2,9851.1,6100,0.1
+ORD-001448,2025-12-01,CUST-00472,Corporate,Central,Furniture,Office Chair,6,6715.97,4200,0.1
+ORD-001449,2025-06-23,CUST-00472,Consumer,North,Technology,Monitor,6,12873.51,8500,0.0
+ORD-001450,2024-03-16,CUST-00068,Corporate,East,Technology,Keyboard,3,1419.67,800,0.15
+ORD-001451,2024-08-02,CUST-00448,Small Business,South,Furniture,Study Desk,1,8146.76,6100,0.1
+ORD-001452,2024-01-30,CUST-00273,Consumer,Central,Technology,Monitor,3,12816.2,8500,0.05
+ORD-001453,2024-02-07,CUST-00360,Consumer,West,Technology,USB Hub,4,1166.74,620,0.0
+ORD-001454,2024-06-28,CUST-00382,Consumer,West,Office Supplies,Notebook Pack,4,338.17,170,0.05
+ORD-001455,2025-02-21,CUST-00132,Consumer,Central,Office Supplies,Notebook Pack,5,343.92,170,0.0
+ORD-001456,2024-02-17,CUST-00194,Small Business,West,Furniture,Study Desk,6,9831.81,6100,0.05
+ORD-001457,2025-12-19,CUST-00183,Consumer,East,Technology,Monitor,5,11566.39,8500,0.0
+ORD-001458,2024-11-28,CUST-00215,Consumer,East,Furniture,Bookshelf,6,6600.24,4800,0.1
+ORD-001459,2024-07-11,CUST-00205,Corporate,Central,Office Supplies,Notebook Pack,1,347.04,170,0.15
+ORD-001460,2025-01-11,CUST-00357,Consumer,Central,Furniture,Office Chair,5,6564.5,4200,0.05
+ORD-001461,2025-07-30,CUST-00375,Small Business,Central,Furniture,Study Desk,3,9365.5,6100,0.15
+ORD-001462,2024-08-16,CUST-00288,Corporate,South,Technology,Monitor,1,12503.11,8500,0.1
+ORD-001463,2024-02-04,CUST-00117,Consumer,East,Technology,Monitor,2,12614.25,8500,0.15
+ORD-001464,2024-02-07,CUST-00064,Corporate,East,Office Supplies,Notebook Pack,1,323.79,170,0.15
+ORD-001465,2025-09-13,CUST-00267,Small Business,South,Technology,Keyboard,2,1484.74,800,0.15
+ORD-001466,2024-03-22,CUST-00005,Small Business,South,Technology,Keyboard,6,1643.54,800,0.15
+ORD-001467,2025-04-08,CUST-00308,Consumer,North,Office Supplies,Notebook Pack,5,355.42,170,0.0
+ORD-001468,2024-10-07,CUST-00469,Consumer,North,Office Supplies,Pen Set,7,218.36,90,0.0
+ORD-001469,2025-07-21,CUST-00033,Consumer,South,Technology,Keyboard,6,1647.07,800,0.0
+ORD-001470,2024-02-14,CUST-00039,Small Business,East,Technology,USB Hub,4,1188.51,620,0.15
+ORD-001471,2025-10-17,CUST-00090,Corporate,West,Furniture,Office Chair,6,6793.44,4200,0.05
+ORD-001472,2025-05-24,CUST-00130,Small Business,Central,Office Supplies,Notebook Pack,6,357.06,170,0.05
+ORD-001473,2024-11-23,CUST-00130,Small Business,Central,Office Supplies,Notebook Pack,5,365.94,170,0.0
+ORD-001474,2024-05-31,CUST-00291,Small Business,South,Furniture,Bookshelf,2,7051.88,4800,0.1
+ORD-001475,2025-12-14,CUST-00289,Small Business,West,Office Supplies,Desk Organizer,7,657.35,330,0.15
+ORD-001476,2024-08-08,CUST-00210,Small Business,West,Technology,Keyboard,3,1532.64,800,0.0
+ORD-001477,2024-12-24,CUST-00451,Consumer,Central,Furniture,Study Desk,7,9583.67,6100,0.0
+ORD-001478,2024-10-14,CUST-00277,Consumer,North,Technology,Keyboard,3,1580.94,800,0.0
+ORD-001479,2024-06-17,CUST-00130,Corporate,South,Technology,Keyboard,3,1451.4,800,0.05
+ORD-001480,2024-10-31,CUST-00128,Small Business,South,Office Supplies,Desk Organizer,7,745.69,330,0.0
+ORD-001481,2024-04-20,CUST-00260,Small Business,East,Office Supplies,Desk Organizer,2,753.99,330,0.05
+ORD-001482,2024-01-02,CUST-00435,Corporate,South,Technology,USB Hub,2,1137.88,620,0.0
+ORD-001483,2024-07-30,CUST-00276,Consumer,South,Furniture,Study Desk,4,8500.22,6100,0.0
+ORD-001484,2024-03-22,CUST-00344,Corporate,Central,Office Supplies,Pen Set,6,206.91,90,0.0
+ORD-001485,2024-10-29,CUST-00345,Consumer,East,Furniture,Bookshelf,5,7257.09,4800,0.0
+ORD-001486,2025-09-21,CUST-00313,Consumer,East,Furniture,Bookshelf,5,7256.88,4800,0.0
+ORD-001487,2024-04-28,CUST-00377,Small Business,East,Furniture,Office Chair,7,5894.12,4200,0.0
+ORD-001488,2024-01-01,CUST-00187,Small Business,East,Technology,USB Hub,7,1229.75,620,0.1
+ORD-001489,2024-03-22,CUST-00425,Consumer,North,Technology,Monitor,7,13019.02,8500,0.15
+ORD-001490,2025-01-05,CUST-00312,Small Business,South,Technology,Monitor,6,11875.07,8500,0.0
+ORD-001491,2024-07-19,CUST-00490,Small Business,South,Technology,Wireless Mouse,2,865.83,430,0.0
+ORD-001492,2024-12-23,CUST-00199,Small Business,South,Furniture,Study Desk,6,9247.32,6100,0.15
+ORD-001493,2024-01-22,CUST-00486,Small Business,West,Furniture,Study Desk,1,9192.85,6100,0.0
+ORD-001494,2024-08-31,CUST-00426,Consumer,East,Technology,Wireless Mouse,6,835.45,430,0.1
+ORD-001495,2024-10-26,CUST-00392,Corporate,South,Furniture,Office Chair,7,7047.15,4200,0.0
+ORD-001496,2024-11-10,CUST-00349,Consumer,North,Office Supplies,Notebook Pack,6,381.46,170,0.05
+ORD-001497,2025-02-06,CUST-00105,Corporate,Central,Technology,Wireless Mouse,4,868.34,430,0.1
+ORD-001498,2025-07-23,CUST-00462,Consumer,East,Technology,Wireless Mouse,7,878.63,430,0.0
+ORD-001499,2024-12-07,CUST-00479,Consumer,Central,Furniture,Office Chair,1,6323.91,4200,0.15
+ORD-001500,2025-09-06,CUST-00078,Small Business,North,Office Supplies,Notebook Pack,4,342.39,170,0.0
